@@ -1,0 +1,1572 @@
+lane|id|pickup|delivery
+Hood River,OR -> Upper Marlboro,MD|0|Hood River,OR|Upper Marlboro,MD
+Etowah,TN -> Reno,NV|1|Etowah,TN|Reno,NV
+Salinas,CA -> Upper Marlboro,MD|2|Salinas,CA|Upper Marlboro,MD
+Montpelier,OH -> Reno,NV|3|Montpelier,OH|Reno,NV
+Newark,DE -> Portland,OR|4|Newark,DE|Portland,OR
+Maxton,NC -> Portland,OR|5|Maxton,NC|Portland,OR
+Manning,SC -> Portland,OR|6|Manning,SC|Portland,OR
+Santa Ana,CA -> Plant City,FL|7|Santa Ana,CA|Plant City,FL
+Trenton,MO -> Reno,NV|8|Trenton,MO|Reno,NV
+Gonzales,CA -> Upper Marlboro,MD|9|Gonzales,CA|Upper Marlboro,MD
+Lakewood,NY -> Portland,OR|10|Lakewood,NY|Portland,OR
+Fairfield,CA -> Newark,NJ|11|Fairfield,CA|Newark,NJ
+Yakima,WA -> Upper Marlboro,MD|12|Yakima,WA|Upper Marlboro,MD
+Concord,NC -> Portland,OR|13|Concord,NC|Portland,OR
+Delano,CA -> Methuen,MA|14|Delano,CA|Methuen,MA
+Fairfield,CA -> Jacksonville,FL|15|Fairfield,CA|Jacksonville,FL
+Phoenix,AZ -> Pacific,WA|16|Phoenix,AZ|Pacific,WA
+Moxee,WA -> Methuen,MA|17|Moxee,WA|Methuen,MA
+Stockton,CA -> Palm City,FL|18|Stockton,CA|Palm City,FL
+Compton,CA -> Plant City,FL|19|Compton,CA|Plant City,FL
+Hanover,PA -> Portland,OR|20|Hanover,PA|Portland,OR
+Stockton,CA -> Parrish,FL|21|Stockton,CA|Parrish,FL
+Portland,OR -> Canton,OH|22|Portland,OR|Canton,OH
+Los Angeles,CA -> Greensboro,NC|23|Los Angeles,CA|Greensboro,NC
+Yakima,WA -> Methuen,MA|24|Yakima,WA|Methuen,MA
+Compton,CA -> Commerce,GA|25|Compton,CA|Commerce,GA
+Shafter,CA -> Plant City,FL|26|Shafter,CA|Plant City,FL
+Selah,WA -> Methuen,MA|27|Selah,WA|Methuen,MA
+La Pine,OR -> Methuen,MA|28|La Pine,OR|Methuen,MA
+Saint Anthony,ID -> Orlando,FL|29|Saint Anthony,ID|Orlando,FL
+Merrimack,NH -> Jacksonville,FL|30|Merrimack,NH|Jacksonville,FL
+Los Angeles,CA -> Newark,NJ|31|Los Angeles,CA|Newark,NJ
+Bingen,WA -> Methuen,MA|32|Bingen,WA|Methuen,MA
+Los Angeles,CA -> Raleigh,NC|33|Los Angeles,CA|Raleigh,NC
+Wapato,WA -> Methuen,MA|34|Wapato,WA|Methuen,MA
+Forest City,NC -> Portland,OR|35|Forest City,NC|Portland,OR
+Brownsville,TX -> Portland,OR|36|Brownsville,TX|Portland,OR
+Del Rio,TX -> Mount Holly,NC|37|Del Rio,TX|Mount Holly,NC
+North Charleston,SC -> Laredo,TX|38|North Charleston,SC|Laredo,TX
+Fairfield,CA -> Granite City,IL|39|Fairfield,CA|Granite City,IL
+Vernon,CA -> South Plainfield,NJ|40|Vernon,CA|South Plainfield,NJ
+La Palma,CA -> Plant City,FL|41|La Palma,CA|Plant City,FL
+La Palma,CA -> Lakeland,FL|42|La Palma,CA|Lakeland,FL
+Morganton,NC -> Reno,NV|43|Morganton,NC|Reno,NV
+Brighton,MI -> Portland,OR|44|Brighton,MI|Portland,OR
+Los Angeles,CA -> La Vergne,TN|45|Los Angeles,CA|La Vergne,TN
+Decatur,IN -> Portland,OR|46|Decatur,IN|Portland,OR
+Chillicothe,OH -> Portland,OR|47|Chillicothe,OH|Portland,OR
+Commerce,CA -> Brooklyn,NY|48|Commerce,CA|Brooklyn,NY
+Ontario,CA -> Laredo,TX|49|Ontario,CA|Laredo,TX
+Rochester,NY -> Portland,OR|50|Rochester,NY|Portland,OR
+Los Angeles,CA -> Columbus,OH|51|Los Angeles,CA|Columbus,OH
+Los Angeles,CA -> Cartersville,GA|52|Los Angeles,CA|Cartersville,GA
+Oxnard,CA -> Eagan,MN|53|Oxnard,CA|Eagan,MN
+Fresno,CA -> Methuen,MA|54|Fresno,CA|Methuen,MA
+Kingman,AZ -> Methuen,MA|55|Kingman,AZ|Methuen,MA
+Wood Dale,IL -> Statesville,NC|56|Wood Dale,IL|Statesville,NC
+Fort Collins,CO -> Jacksonville,FL|57|Fort Collins,CO|Jacksonville,FL
+North Charleston,SC -> Reno,NV|58|North Charleston,SC|Reno,NV
+Fairfield,CA -> Miami,FL|59|Fairfield,CA|Miami,FL
+Santa Ana,CA -> Leola,PA|60|Santa Ana,CA|Leola,PA
+Fairfield,CA -> Rapid City,SD|61|Fairfield,CA|Rapid City,SD
+Salisbury,NC -> Reno,NV|62|Salisbury,NC|Reno,NV
+Mogadore,OH -> Portland,OR|63|Mogadore,OH|Portland,OR
+Indianapolis,IN -> Laredo,TX|64|Indianapolis,IN|Laredo,TX
+Sioux City,IA -> Temple,TX|65|Sioux City,IA|Temple,TX
+Plant City,FL -> Stockton,CA|66|Plant City,FL|Stockton,CA
+Lakewood,NY -> Laredo,TX|67|Lakewood,NY|Laredo,TX
+Fort Collins,CO -> Orlando,FL|68|Fort Collins,CO|Orlando,FL
+Yuma,AZ -> Roanoke,TX|69|Yuma,AZ|Roanoke,TX
+Missouri City,TX -> Altamonte Springs,FL|70|Missouri City,TX|Altamonte Springs,FL
+Gonzales,CA -> Roanoke,TX|71|Gonzales,CA|Roanoke,TX
+Union Gap,WA -> Denver,CO|72|Union Gap,WA|Denver,CO
+Santa Ana,CA -> Monroe Township,NJ|73|Santa Ana,CA|Monroe Township,NJ
+St. Louis,MO -> Homestead,FL|74|St. Louis,MO|Homestead,FL
+Rio Rico,AZ -> Salt Lake City,UT|75|Rio Rico,AZ|Salt Lake City,UT
+Plant City,FL -> Eugene,OR|76|Plant City,FL|Eugene,OR
+Erie,PA -> Portland,OR|77|Erie,PA|Portland,OR
+Pittston,PA -> Portland,OR|78|Pittston,PA|Portland,OR
+Crete,IL -> Plant City,FL|79|Crete,IL|Plant City,FL
+Pittsburgh,PA -> Tolleson,AZ|80|Pittsburgh,PA|Tolleson,AZ
+Hauppauge,NY -> Plant City,FL|81|Hauppauge,NY|Plant City,FL
+Bowling Green,OH -> Laredo,TX|82|Bowling Green,OH|Laredo,TX
+Toledo,OH -> Portland,OR|83|Toledo,OH|Portland,OR
+Sioux City,IA -> Kissimmee,FL|84|Sioux City,IA|Kissimmee,FL
+Santa Ana,CA -> Monrovia,MD|85|Santa Ana,CA|Monrovia,MD
+Beecher,IL -> Plant City,FL|86|Beecher,IL|Plant City,FL
+Tracy,CA -> Melrose Park,IL|87|Tracy,CA|Melrose Park,IL
+Lodi,CA -> Roanoke,TX|88|Lodi,CA|Roanoke,TX
+Brooklyn Park,MN -> Lakeland,FL|89|Brooklyn Park,MN|Lakeland,FL
+Newark,NJ -> Boise,ID|90|Newark,NJ|Boise,ID
+Portland,OR -> Tempe,AZ|91|Portland,OR|Tempe,AZ
+Little Falls,NY -> Fort Collins,CO|92|Little Falls,NY|Fort Collins,CO
+Decatur,IN -> Cleveland,NC|93|Decatur,IN|Cleveland,NC
+Portland,OR -> Memphis,TN|94|Portland,OR|Memphis,TN
+Houston,TX -> Pacific,WA|95|Houston,TX|Pacific,WA
+Los Angeles,CA -> Missoula,MT|96|Los Angeles,CA|Missoula,MT
+Lewisville,ID -> Tolleson,AZ|97|Lewisville,ID|Tolleson,AZ
+Paragould,AR -> Reno,NV|98|Paragould,AR|Reno,NV
+Ottawa,KS -> Tracy,CA|99|Ottawa,KS|Tracy,CA
+Carson,CA -> Monroe Township,NJ|100|Carson,CA|Monroe Township,NJ
+Selah,WA -> Tolleson,AZ|101|Selah,WA|Tolleson,AZ
+Los Angeles,CA -> Plant City,FL|102|Los Angeles,CA|Plant City,FL
+Vineland,NJ -> Canby,OR|103|Vineland,NJ|Canby,OR
+Vineland,NJ -> Portland,OR|104|Vineland,NJ|Portland,OR
+Carlisle,PA -> Jacksonville,FL|105|Carlisle,PA|Jacksonville,FL
+Plant City,FL -> Portland,OR|106|Plant City,FL|Portland,OR
+Franklin,IN -> Modesto,CA|107|Franklin,IN|Modesto,CA
+Poynette,WI -> Denver,CO|108|Poynette,WI|Denver,CO
+Santa Maria,CA -> Salt Lake City,UT|109|Santa Maria,CA|Salt Lake City,UT
+Prescott,WA -> Denver,CO|110|Prescott,WA|Denver,CO
+Fort Collins,CO -> Newark,NJ|111|Fort Collins,CO|Newark,NJ
+Brighton,MI -> Laredo,TX|112|Brighton,MI|Laredo,TX
+Toledo,OH -> Memphis,TN|113|Toledo,OH|Memphis,TN
+Carson,CA -> Monrovia,MD|114|Carson,CA|Monrovia,MD
+Piedmont,SC -> Laredo,TX|115|Piedmont,SC|Laredo,TX
+Baldwinsville,NY -> Clifton,CO|116|Baldwinsville,NY|Clifton,CO
+Sapulpa,OK -> Warner Robins,GA|117|Sapulpa,OK|Warner Robins,GA
+Rossville,GA -> Cleveland,NC|118|Rossville,GA|Cleveland,NC
+Trenton,MO -> Laredo,TX|119|Trenton,MO|Laredo,TX
+Carson,CA -> McDonough,GA|120|Carson,CA|McDonough,GA
+Fostoria,OH -> Wells,ME|121|Fostoria,OH|Wells,ME
+St. Louis,MO -> Clifton,CO|122|St. Louis,MO|Clifton,CO
+Baldwinsville,NY -> Bronx,NY|123|Baldwinsville,NY|Bronx,NY
+Topton,PA -> Cleveland,NC|124|Topton,PA|Cleveland,NC
+Dublin,VA -> Laredo,TX|125|Dublin,VA|Laredo,TX
+Fort Collins,CO -> Kalispell,MT|126|Fort Collins,CO|Kalispell,MT
+Burlington,NC -> Sacramento,CA|127|Burlington,NC|Sacramento,CA
+Compton,CA -> Forest Park,GA|128|Compton,CA|Forest Park,GA
+Santa Ana,CA -> Fife,WA|129|Santa Ana,CA|Fife,WA
+Compton,CA -> McCook,IL|130|Compton,CA|McCook,IL
+Brownsville,TX -> Swedesboro,NJ|131|Brownsville,TX|Swedesboro,NJ
+St. Louis,MO -> Portland,OR|132|St. Louis,MO|Portland,OR
+Nogales,AZ -> Spokane,WA|133|Nogales,AZ|Spokane,WA
+St. Louis,MO -> Missoula,MT|134|St. Louis,MO|Missoula,MT
+Canton,NC -> Laredo,TX|135|Canton,NC|Laredo,TX
+St. Louis,MO -> Fort Lauderdale,FL|136|St. Louis,MO|Fort Lauderdale,FL
+Eagan,MN -> Fife,WA|137|Eagan,MN|Fife,WA
+Geneva,IL -> Tracy,CA|138|Geneva,IL|Tracy,CA
+Newark,NJ -> Jacksonville,FL|139|Newark,NJ|Jacksonville,FL
+Portland,OR -> Wood Dale,IL|140|Portland,OR|Wood Dale,IL
+Fairfield,CA -> Cartersville,GA|141|Fairfield,CA|Cartersville,GA
+Los Angeles,CA -> La Porte,TX|142|Los Angeles,CA|La Porte,TX
+Maricopa,AZ -> Methuen,MA|143|Maricopa,AZ|Methuen,MA
+Janesville,WI -> Roanoke,TX|144|Janesville,WI|Roanoke,TX
+Fort Collins,CO -> Colonial Heights,VA|145|Fort Collins,CO|Colonial Heights,VA
+Eagan,MN -> Modesto,CA|146|Eagan,MN|Modesto,CA
+St. Louis,MO -> Ocala,FL|147|St. Louis,MO|Ocala,FL
+Batavia,IL -> Reno,NV|148|Batavia,IL|Reno,NV
+Williams,MN -> Elmer,NJ|149|Williams,MN|Elmer,NJ
+La Pine,OR -> Tempe,AZ|150|La Pine,OR|Tempe,AZ
+Dickson,TN -> Plant City,FL|151|Dickson,TN|Plant City,FL
+Crete,IL -> Santa Ana,CA|152|Crete,IL|Santa Ana,CA
+Newark,NJ -> Tampa,FL|153|Newark,NJ|Tampa,FL
+Tracy,CA -> Hebron,KY|154|Tracy,CA|Hebron,KY
+Plant City,FL -> Commerce,CA|155|Plant City,FL|Commerce,CA
+Williamsburg,VA -> Miami,FL|156|Williamsburg,VA|Miami,FL
+Aurora,CO -> Kalispell,MT|157|Aurora,CO|Kalispell,MT
+Sioux City,IA -> Rocky Mount,NC|158|Sioux City,IA|Rocky Mount,NC
+Rio Rico,AZ -> Denver,CO|159|Rio Rico,AZ|Denver,CO
+Portland,OR -> Portland,OR|160|Portland,OR|Portland,OR
+Los Angeles,CA -> Granite City,IL|161|Los Angeles,CA|Granite City,IL
+Lockport,IL -> Cleveland,NC|162|Lockport,IL|Cleveland,NC
+Cartersville,GA -> Portland,OR|163|Cartersville,GA|Portland,OR
+Jacksonville,AL -> Brooklyn Park,MN|164|Jacksonville,AL|Brooklyn Park,MN
+Sioux City,IA -> Pittston,PA|165|Sioux City,IA|Pittston,PA
+Pittsburgh,PA -> Salt Lake City,UT|166|Pittsburgh,PA|Salt Lake City,UT
+Holiday City,OH -> Cartersville,GA|167|Holiday City,OH|Cartersville,GA
+Baldwinsville,NY -> Boise,ID|168|Baldwinsville,NY|Boise,ID
+Newark,NJ -> Sanford,FL|169|Newark,NJ|Sanford,FL
+Newark,NJ -> Pensacola,FL|170|Newark,NJ|Pensacola,FL
+Trenton,MO -> Cleveland,NC|171|Trenton,MO|Cleveland,NC
+St. Louis,MO -> Eugene,OR|172|St. Louis,MO|Eugene,OR
+Florence,KY -> Swedesboro,NJ|173|Florence,KY|Swedesboro,NJ
+Fort Collins,CO -> Sheridan,WY|174|Fort Collins,CO|Sheridan,WY
+Bolingbrook,IL -> Wells,ME|175|Bolingbrook,IL|Wells,ME
+St. Louis,MO -> Cranston,RI|176|St. Louis,MO|Cranston,RI
+Minneapolis,MN -> Denver,CO|177|Minneapolis,MN|Denver,CO
+Trenton,MO -> Mount Holly,NC|178|Trenton,MO|Mount Holly,NC
+Williamsburg,VA -> Aurora,CO|179|Williamsburg,VA|Aurora,CO
+Baldwinsville,NY -> Cody,WY|180|Baldwinsville,NY|Cody,WY
+St. Louis,MO -> Pueblo,CO|181|St. Louis,MO|Pueblo,CO
+Pleasant Prairie,WI -> Cartersville,GA|182|Pleasant Prairie,WI|Cartersville,GA
+Quincy,WA -> Brea,CA|183|Quincy,WA|Brea,CA
+St. Louis,MO -> Tampa,FL|184|St. Louis,MO|Tampa,FL
+Plant City,FL -> Compton,CA|185|Plant City,FL|Compton,CA
+Fort Collins,CO -> Pittsburgh,PA|186|Fort Collins,CO|Pittsburgh,PA
+Jacksonville,FL -> Bronx,NY|187|Jacksonville,FL|Bronx,NY
+Fort Collins,CO -> Bronx,NY|188|Fort Collins,CO|Bronx,NY
+Jacksonville,FL -> Aurora,CO|189|Jacksonville,FL|Aurora,CO
+Los Angeles,CA -> McAllen,TX|190|Los Angeles,CA|McAllen,TX
+Beecher,IL -> Santa Ana,CA|191|Beecher,IL|Santa Ana,CA
+Batavia,IL -> Swedesboro,NJ|192|Batavia,IL|Swedesboro,NJ
+St. Louis,MO -> Rock Springs,WY|193|St. Louis,MO|Rock Springs,WY
+Plant City,FL -> Queens,NY|194|Plant City,FL|Queens,NY
+Plant City,FL -> Haverstraw,NY|195|Plant City,FL|Haverstraw,NY
+Pittsburgh,PA -> Jurupa Valley,CA|196|Pittsburgh,PA|Jurupa Valley,CA
+Plant City,FL -> Methuen,MA|197|Plant City,FL|Methuen,MA
+Downey,ID -> Elmira,MI|198|Downey,ID|Elmira,MI
+Watertown,WI -> Santa Ana,CA|199|Watertown,WI|Santa Ana,CA
+Plant City,FL -> Schenectady,NY|200|Plant City,FL|Schenectady,NY
+St. Louis,MO -> Corpus Christi,TX|201|St. Louis,MO|Corpus Christi,TX
+Granite City,IL -> Niagara,WI|202|Granite City,IL|Niagara,WI
+Cartersville,GA -> Aurora,CO|203|Cartersville,GA|Aurora,CO
+Newark,NJ -> Orlando,FL|204|Newark,NJ|Orlando,FL
+Plant City,FL -> Syracuse,NY|205|Plant City,FL|Syracuse,NY
+Los Angeles,CA -> Hayden,ID|206|Los Angeles,CA|Hayden,ID
+Monte Vista,CO -> Plant City,FL|207|Monte Vista,CO|Plant City,FL
+Henderson,NV -> Tracy,CA|208|Henderson,NV|Tracy,CA
+Georgetown,SC -> Anaheim,CA|209|Georgetown,SC|Anaheim,CA
+Houston,TX -> Casper,WY|210|Houston,TX|Casper,WY
+Monte Vista,CO -> Roanoke,TX|211|Monte Vista,CO|Roanoke,TX
+Santa Ana,CA -> McDonough,GA|212|Santa Ana,CA|McDonough,GA
+Lakeland,FL -> Compton,CA|213|Lakeland,FL|Compton,CA
+Tampa,FL -> Compton,CA|214|Tampa,FL|Compton,CA
+Brooklyn Park,MN -> Tampa,FL|215|Brooklyn Park,MN|Tampa,FL
+Columbus,OH -> Baldwinsville,NY|216|Columbus,OH|Baldwinsville,NY
+Sioux City,IA -> Longmont,CO|217|Sioux City,IA|Longmont,CO
+Las Vegas,NV -> Chicago,IL|218|Las Vegas,NV|Chicago,IL
+Fort Collins,CO -> Bangor,ME|219|Fort Collins,CO|Bangor,ME
+Pittston,PA -> Deerfield Beach,FL|220|Pittston,PA|Deerfield Beach,FL
+Houston,TX -> Idaho Falls,ID|221|Houston,TX|Idaho Falls,ID
+Sioux City,IA -> Brookhaven,MS|222|Sioux City,IA|Brookhaven,MS
+Hamlin,TX -> Ronkonkoma,NY|223|Hamlin,TX|Ronkonkoma,NY
+Greeley,CO -> Houston,TX|224|Greeley,CO|Houston,TX
+Kendallville,IN -> Mount Holly,NC|225|Kendallville,IN|Mount Holly,NC
+Gulfport,MS -> Upper Marlboro,MD|226|Gulfport,MS|Upper Marlboro,MD
+Compton,CA -> Portland,OR|227|Compton,CA|Portland,OR
+Carson,CA -> Sumner,WA|228|Carson,CA|Sumner,WA
+St. Louis,MO -> Montclair,CA|229|St. Louis,MO|Montclair,CA
+Lost Hills,CA -> Pacific,WA|230|Lost Hills,CA|Pacific,WA
+Erie,PA -> Milford,MA|231|Erie,PA|Milford,MA
+Fairfield,CA -> Idaho Falls,ID|232|Fairfield,CA|Idaho Falls,ID
+Granite City,IL -> Anderson,IN|233|Granite City,IL|Anderson,IN
+Houston,TX -> Leonardtown,MD|234|Houston,TX|Leonardtown,MD
+Commerce,CA -> Clackamas,OR|235|Commerce,CA|Clackamas,OR
+Los Angeles,CA -> Layton,UT|236|Los Angeles,CA|Layton,UT
+St. Louis,MO -> Pasadena,TX|237|St. Louis,MO|Pasadena,TX
+Compton,CA -> Aurora,CO|238|Compton,CA|Aurora,CO
+Bolingbrook,IL -> Swedesboro,NJ|239|Bolingbrook,IL|Swedesboro,NJ
+Los Angeles,CA -> Aurora,CO|240|Los Angeles,CA|Aurora,CO
+Newark,NJ -> Homestead,FL|241|Newark,NJ|Homestead,FL
+Brighton,MI -> Statesville,NC|242|Brighton,MI|Statesville,NC
+Janesville,WI -> Tucson,AZ|243|Janesville,WI|Tucson,AZ
+Houston,TX -> Plant City,FL|244|Houston,TX|Plant City,FL
+Bolingbrook,IL -> Reno,NV|245|Bolingbrook,IL|Reno,NV
+Idaho Falls,ID -> Tracy,CA|246|Idaho Falls,ID|Tracy,CA
+Fort Collins,CO -> Portland,OR|247|Fort Collins,CO|Portland,OR
+Decatur,IN -> Laredo,TX|248|Decatur,IN|Laredo,TX
+Bolingbrook,IL -> Fort Worth,TX|249|Bolingbrook,IL|Fort Worth,TX
+St. Louis,MO -> Worthington,MN|250|St. Louis,MO|Worthington,MN
+Warren,OH -> Laredo,TX|251|Warren,OH|Laredo,TX
+Baldwinsville,NY -> Santa Fe Springs,CA|252|Baldwinsville,NY|Santa Fe Springs,CA
+St. Louis,MO -> Hooksett,NH|253|St. Louis,MO|Hooksett,NH
+Bethlehem,PA -> Plant City,FL|254|Bethlehem,PA|Plant City,FL
+Saint Michael,MN -> Wilkes-Barre,PA|255|Saint Michael,MN|Wilkes-Barre,PA
+Newark,NJ -> Deerfield Beach,FL|256|Newark,NJ|Deerfield Beach,FL
+Williamsburg,VA -> Rapid City,SD|257|Williamsburg,VA|Rapid City,SD
+Plainfield,IL -> Swedesboro,NJ|258|Plainfield,IL|Swedesboro,NJ
+Las Cruces,NM -> Reno,NV|259|Las Cruces,NM|Reno,NV
+Conover,NC -> Nogales,AZ|260|Conover,NC|Nogales,AZ
+Houston,TX -> Jacksonville,FL|261|Houston,TX|Jacksonville,FL
+Rancho Cucamonga,CA -> Laredo,TX|262|Rancho Cucamonga,CA|Laredo,TX
+Naperville,IL -> Swedesboro,NJ|263|Naperville,IL|Swedesboro,NJ
+Clackamas,OR -> Roanoke,TX|264|Clackamas,OR|Roanoke,TX
+Fort Collins,CO -> Spokane Valley,WA|265|Fort Collins,CO|Spokane Valley,WA
+Decatur,IN -> Mount Holly,NC|266|Decatur,IN|Mount Holly,NC
+St. Louis,MO -> Piedmont,SC|267|St. Louis,MO|Piedmont,SC
+Pleasant Prairie,WI -> Sapulpa,OK|268|Pleasant Prairie,WI|Sapulpa,OK
+Santa Ana,CA -> McCook,IL|269|Santa Ana,CA|McCook,IL
+Carlisle,PA -> Sarasota,FL|270|Carlisle,PA|Sarasota,FL
+Rensselaer,IN -> Swedesboro,NJ|271|Rensselaer,IN|Swedesboro,NJ
+Lockport,IL -> Mount Holly,NC|272|Lockport,IL|Mount Holly,NC
+Fairfield,CA -> Renton,WA|273|Fairfield,CA|Renton,WA
+Granite City,IL -> International Falls,MN|274|Granite City,IL|International Falls,MN
+Lathrop,CA -> Davenport,IA|275|Lathrop,CA|Davenport,IA
+Jacksonville,FL -> Merrimack,NH|276|Jacksonville,FL|Merrimack,NH
+Plant City,FL -> Hatfield,MA|277|Plant City,FL|Hatfield,MA
+Tampa,FL -> Santa Ana,CA|278|Tampa,FL|Santa Ana,CA
+Aurora,CO -> Hayden,ID|279|Aurora,CO|Hayden,ID
+St. Louis,MO -> Thief River Falls,MN|280|St. Louis,MO|Thief River Falls,MN
+Sycamore,IL -> Plant City,FL|281|Sycamore,IL|Plant City,FL
+Plainfield,IL -> Cleveland,NC|282|Plainfield,IL|Cleveland,NC
+Plant City,FL -> Woodbridge Township,NJ|283|Plant City,FL|Woodbridge Township,NJ
+Granite City,IL -> Muskegon Heights,MI|284|Granite City,IL|Muskegon Heights,MI
+Houston,TX -> Rock Springs,WY|285|Houston,TX|Rock Springs,WY
+Fort Collins,CO -> Great Falls,MT|286|Fort Collins,CO|Great Falls,MT
+Colonial Heights,VA -> Fort Pierce,FL|287|Colonial Heights,VA|Fort Pierce,FL
+St. Louis,MO -> Devils Lake,ND|288|St. Louis,MO|Devils Lake,ND
+Fort Collins,CO -> Elkton,MD|289|Fort Collins,CO|Elkton,MD
+Bolingbrook,IL -> Commerce,GA|290|Bolingbrook,IL|Commerce,GA
+Bolingbrook,IL -> York,PA|291|Bolingbrook,IL|York,PA
+Plant City,FL -> Monroe Township,NJ|292|Plant City,FL|Monroe Township,NJ
+Bolingbrook,IL -> Buford,GA|293|Bolingbrook,IL|Buford,GA
+Granite City,IL -> Thief River Falls,MN|294|Granite City,IL|Thief River Falls,MN
+Aurora,CO -> Rock Springs,WY|295|Aurora,CO|Rock Springs,WY
+Whitakers,NC -> Laredo,TX|296|Whitakers,NC|Laredo,TX
+Sioux City,IA -> Lubbock,TX|297|Sioux City,IA|Lubbock,TX
+North Charleston,SC -> Swedesboro,NJ|298|North Charleston,SC|Swedesboro,NJ
+Denver,CO -> Layton,UT|299|Denver,CO|Layton,UT
+Green Bay,WI -> Baldwinsville,NY|300|Green Bay,WI|Baldwinsville,NY
+Santa Ana,CA -> Mount Sterling,IL|301|Santa Ana,CA|Mount Sterling,IL
+St. Louis,MO -> Mobile,AL|302|St. Louis,MO|Mobile,AL
+Sioux City,IA -> Nicholasville,KY|303|Sioux City,IA|Nicholasville,KY
+Granite City,IL -> Highland Park,MI|304|Granite City,IL|Highland Park,MI
+Phoenix,AZ -> Millwood,WV|305|Phoenix,AZ|Millwood,WV
+Pleasant Prairie,WI -> Fort Collins,CO|306|Pleasant Prairie,WI|Fort Collins,CO
+Fort Collins,CO -> Union Gap,WA|307|Fort Collins,CO|Union Gap,WA
+Jacksonville,FL -> Rochester,MN|308|Jacksonville,FL|Rochester,MN
+Baldwinsville,NY -> Idaho Falls,ID|309|Baldwinsville,NY|Idaho Falls,ID
+Houston,TX -> Rifle,CO|310|Houston,TX|Rifle,CO
+Williamsburg,VA -> Midway,FL|311|Williamsburg,VA|Midway,FL
+Bloomington,CA -> Phoenix,AZ|312|Bloomington,CA|Phoenix,AZ
+Janesville,WI -> Houston,TX|313|Janesville,WI|Houston,TX
+Erie,PA -> Perry,GA|314|Erie,PA|Perry,GA
+Sterling,VA -> Plant City,FL|315|Sterling,VA|Plant City,FL
+Mount Sterling,IL -> Pittston,PA|316|Mount Sterling,IL|Pittston,PA
+Wilkes-Barre,PA -> Boca Raton,FL|317|Wilkes-Barre,PA|Boca Raton,FL
+Warren,OH -> Mount Holly,NC|318|Warren,OH|Mount Holly,NC
+Bellevue,WA -> Irvine,CA|319|Bellevue,WA|Irvine,CA
+Los Angeles,CA -> Medford,OR|320|Los Angeles,CA|Medford,OR
+Granite City,IL -> Houston,TX|321|Granite City,IL|Houston,TX
+Stockton,CA -> Pacific,WA|322|Stockton,CA|Pacific,WA
+Granite City,IL -> Minot,ND|323|Granite City,IL|Minot,ND
+Tampa,FL -> La Palma,CA|324|Tampa,FL|La Palma,CA
+Pearl City,IL -> Plant City,FL|325|Pearl City,IL|Plant City,FL
+Winchester,VA -> Pompano Beach,FL|326|Winchester,VA|Pompano Beach,FL
+Granite City,IL -> Moraine,OH|327|Granite City,IL|Moraine,OH
+Saint Anthony,ID -> Bancroft,WI|328|Saint Anthony,ID|Bancroft,WI
+Baldwinsville,NY -> Goldsboro,NC|329|Baldwinsville,NY|Goldsboro,NC
+Houston,TX -> Albuquerque,NM|330|Houston,TX|Albuquerque,NM
+Fort Collins,CO -> Upper Marlboro,MD|331|Fort Collins,CO|Upper Marlboro,MD
+Charleston,SC -> Swedesboro,NJ|332|Charleston,SC|Swedesboro,NJ
+Granite City,IL -> Bay City,MI|333|Granite City,IL|Bay City,MI
+Sycamore,IL -> Lakeland,FL|334|Sycamore,IL|Lakeland,FL
+Green Bay,WI -> Wilkes-Barre,PA|335|Green Bay,WI|Wilkes-Barre,PA
+St. Louis,MO -> Pensacola,FL|336|St. Louis,MO|Pensacola,FL
+Fort Collins,CO -> Puyallup,WA|337|Fort Collins,CO|Puyallup,WA
+Houston,TX -> St. Augustine,FL|338|Houston,TX|St. Augustine,FL
+Fairfield,CA -> Kalispell,MT|339|Fairfield,CA|Kalispell,MT
+Newark,NJ -> Montgomery,AL|340|Newark,NJ|Montgomery,AL
+Braithwaite,LA -> Fleetwood,PA|341|Braithwaite,LA|Fleetwood,PA
+Kent,WA -> Waukegan,IL|342|Kent,WA|Waukegan,IL
+St. Louis,MO -> Dickinson,ND|343|St. Louis,MO|Dickinson,ND
+Aurora,CO -> Glasgow,MT|344|Aurora,CO|Glasgow,MT
+Los Angeles,CA -> Elko,NV|345|Los Angeles,CA|Elko,NV
+Holiday City,OH -> Baldwinsville,NY|346|Holiday City,OH|Baldwinsville,NY
+Baldwinsville,NY -> Merrimack,NH|347|Baldwinsville,NY|Merrimack,NH
+Walla Walla,WA -> North Salt Lake,UT|348|Walla Walla,WA|North Salt Lake,UT
+Conover,NC -> Laredo,TX|349|Conover,NC|Laredo,TX
+Houston,TX -> Las Vegas,NV|350|Houston,TX|Las Vegas,NV
+St. Louis,MO -> Alexandria,LA|351|St. Louis,MO|Alexandria,LA
+Newark,NJ -> Rogers,MN|352|Newark,NJ|Rogers,MN
+Pompano Beach,FL -> Methuen,MA|353|Pompano Beach,FL|Methuen,MA
+Sioux City,IA -> Bolingbrook,IL|354|Sioux City,IA|Bolingbrook,IL
+Altoona,PA -> Plant City,FL|355|Altoona,PA|Plant City,FL
+Newark,NJ -> Melville,NY|356|Newark,NJ|Melville,NY
+St. Louis,MO -> Loxley,AL|357|St. Louis,MO|Loxley,AL
+Granite City,IL -> Sioux City,IA|358|Granite City,IL|Sioux City,IA
+Granite City,IL -> Rochester,MN|359|Granite City,IL|Rochester,MN
+Santa Ana,CA -> Sumner,WA|360|Santa Ana,CA|Sumner,WA
+Fort Collins,CO -> Glasgow,MT|361|Fort Collins,CO|Glasgow,MT
+Fairfield,CA -> Salem,OR|362|Fairfield,CA|Salem,OR
+Wylie,TX -> Statesville,NC|363|Wylie,TX|Statesville,NC
+Houston,TX -> Melbourne,FL|364|Houston,TX|Melbourne,FL
+Newark,NJ -> Grand Forks,ND|365|Newark,NJ|Grand Forks,ND
+St. Louis,MO -> McAllen,TX|366|St. Louis,MO|McAllen,TX
+Baldwinsville,NY -> Manchester,CT|367|Baldwinsville,NY|Manchester,CT
+Fort Collins,CO -> Salem,OR|368|Fort Collins,CO|Salem,OR
+Fort Collins,CO -> Madisonville,LA|369|Fort Collins,CO|Madisonville,LA
+Laredo,TX -> Conover,NC|370|Laredo,TX|Conover,NC
+Newark,NJ -> Harrisburg,PA|371|Newark,NJ|Harrisburg,PA
+St. Louis,MO -> La Porte,TX|372|St. Louis,MO|La Porte,TX
+St. Louis,MO -> New Windsor,NY|373|St. Louis,MO|New Windsor,NY
+Granite City,IL -> Dowagiac,MI|374|Granite City,IL|Dowagiac,MI
+Howell,MI -> Cleveland,NC|375|Howell,MI|Cleveland,NC
+Denver,CO -> Bolingbrook,IL|376|Denver,CO|Bolingbrook,IL
+Granite City,IL -> Fostoria,OH|377|Granite City,IL|Fostoria,OH
+Laceys Spring,AL -> Tullytown,PA|378|Laceys Spring,AL|Tullytown,PA
+Granite City,IL -> Port Huron,MI|379|Granite City,IL|Port Huron,MI
+Stacy,MN -> Reading,PA|380|Stacy,MN|Reading,PA
+Plant City,FL -> York,PA|381|Plant City,FL|York,PA
+Newark,NJ -> Atlanta,GA|382|Newark,NJ|Atlanta,GA
+Newark,NJ -> Springfield,VA|383|Newark,NJ|Springfield,VA
+Fresno,CA -> Tolleson,AZ|384|Fresno,CA|Tolleson,AZ
+Aurora,CO -> Durango,CO|385|Aurora,CO|Durango,CO
+North Salt Lake,UT -> Roanoke,TX|386|North Salt Lake,UT|Roanoke,TX
+Granite City,IL -> Norwalk,OH|387|Granite City,IL|Norwalk,OH
+Plant City,FL -> Newington,CT|388|Plant City,FL|Newington,CT
+Houston,TX -> Ebro,FL|389|Houston,TX|Ebro,FL
+Fort Collins,CO -> Durant,OK|390|Fort Collins,CO|Durant,OK
+Big Sandy,TX -> Madera,CA|391|Big Sandy,TX|Madera,CA
+Idaho Falls,ID -> Pacific,WA|392|Idaho Falls,ID|Pacific,WA
+Fort Collins,CO -> Hayden,ID|393|Fort Collins,CO|Hayden,ID
+Cartersville,GA -> South Burlington,VT|394|Cartersville,GA|South Burlington,VT
+Statesboro,GA -> Philadelphia,PA|395|Statesboro,GA|Philadelphia,PA
+St. Louis,MO -> Daytona Beach,FL|396|St. Louis,MO|Daytona Beach,FL
+Cranbury Township,NJ -> Moorhead,MN|397|Cranbury Township,NJ|Moorhead,MN
+Baldwinsville,NY -> Rapid City,SD|398|Baldwinsville,NY|Rapid City,SD
+Walled Lake,MI -> El Paso,TX|399|Walled Lake,MI|El Paso,TX
+Brooklyn Park,MN -> Pittston,PA|400|Brooklyn Park,MN|Pittston,PA
+Granite City,IL -> Romulus,MI|401|Granite City,IL|Romulus,MI
+1,LA -> Fleetwood,PA|402|1,LA|Fleetwood,PA
+Granite City,IL -> Alpena,MI|403|Granite City,IL|Alpena,MI
+Gordonsville,VA -> Medley,FL|404|Gordonsville,VA|Medley,FL
+Laredo,TX -> Indianapolis,IN|405|Laredo,TX|Indianapolis,IN
+Plant City,FL -> Dunmore,PA|406|Plant City,FL|Dunmore,PA
+Granite City,IL -> Oklahoma City,OK|407|Granite City,IL|Oklahoma City,OK
+Granite City,IL -> Brecksville,OH|408|Granite City,IL|Brecksville,OH
+La Porte,TX -> Aurora,CO|409|La Porte,TX|Aurora,CO
+Springdale,AR -> Roanoke,TX|410|Springdale,AR|Roanoke,TX
+St. Louis,MO -> Omaha,NE|411|St. Louis,MO|Omaha,NE
+Fort Collins,CO -> Miles City,MT|412|Fort Collins,CO|Miles City,MT
+La Porte,TX -> Los Angeles,CA|413|La Porte,TX|Los Angeles,CA
+St. Louis,MO -> Yazoo City,MS|414|St. Louis,MO|Yazoo City,MS
+Plainfield,IN -> Swedesboro,NJ|415|Plainfield,IN|Swedesboro,NJ
+Dunkirk,IN -> Wilson,NC|416|Dunkirk,IN|Wilson,NC
+Williamsburg,VA -> Upper Marlboro,MD|417|Williamsburg,VA|Upper Marlboro,MD
+Bridgewater,NJ -> San Antonio,TX|418|Bridgewater,NJ|San Antonio,TX
+Pleasant Prairie,WI -> Williamsburg,VA|419|Pleasant Prairie,WI|Williamsburg,VA
+Granite City,IL -> Grand Forks,ND|420|Granite City,IL|Grand Forks,ND
+Granite City,IL -> Seneca,KS|421|Granite City,IL|Seneca,KS
+Plant City,FL -> Melrose Park,IL|422|Plant City,FL|Melrose Park,IL
+Baldwinsville,NY -> Auburn,MA|423|Baldwinsville,NY|Auburn,MA
+Denver,CO -> Tempe,AZ|424|Denver,CO|Tempe,AZ
+Aurora,CO -> Cody,WY|425|Aurora,CO|Cody,WY
+St. Louis,MO -> Jamestown,ND|426|St. Louis,MO|Jamestown,ND
+Fort Collins,CO -> Huron,SD|427|Fort Collins,CO|Huron,SD
+St. Louis,MO -> Monroe,LA|428|St. Louis,MO|Monroe,LA
+Fort Collins,CO -> Renton,WA|429|Fort Collins,CO|Renton,WA
+Columbus,OH -> Calumet Township,MI|430|Columbus,OH|Calumet Township,MI
+Granite City,IL -> Charter Township of Clinton,MI|431|Granite City,IL|Charter Township of Clinton,MI
+Walled Lake,MI -> Laredo,TX|432|Walled Lake,MI|Laredo,TX
+Greenfield,IN -> York,PA|433|Greenfield,IN|York,PA
+Newark,NJ -> Athens,GA|434|Newark,NJ|Athens,GA
+Williamsburg,VA -> Pinellas Park,FL|435|Williamsburg,VA|Pinellas Park,FL
+Georgetown,SC -> Tinton Falls,NJ|436|Georgetown,SC|Tinton Falls,NJ
+Holiday City,OH -> St. Louis,MO|437|Holiday City,OH|St. Louis,MO
+Georgetown,SC -> San Antonio,TX|438|Georgetown,SC|San Antonio,TX
+Williamsburg,VA -> Piedmont,SC|439|Williamsburg,VA|Piedmont,SC
+Fort Collins,CO -> Oklahoma City,OK|440|Fort Collins,CO|Oklahoma City,OK
+Pleasant Prairie,WI -> St. Louis,MO|441|Pleasant Prairie,WI|St. Louis,MO
+Erie,PA -> Statesville,NC|442|Erie,PA|Statesville,NC
+De Soto,KS -> Fort Collins,CO|443|De Soto,KS|Fort Collins,CO
+St. Louis,MO -> Beaumont,TX|444|St. Louis,MO|Beaumont,TX
+Springfield,TN -> Charlotte,NC|445|Springfield,TN|Charlotte,NC
+Pittston,PA -> Bolingbrook,IL|446|Pittston,PA|Bolingbrook,IL
+Baldwinsville,NY -> Columbus,OH|447|Baldwinsville,NY|Columbus,OH
+Granite City,IL -> Calumet Township,MI|448|Granite City,IL|Calumet Township,MI
+St. Louis,MO -> Muscle Shoals,AL|449|St. Louis,MO|Muscle Shoals,AL
+Lodi,CA -> Auburn,WA|450|Lodi,CA|Auburn,WA
+Aurora,CO -> Mobridge,SD|451|Aurora,CO|Mobridge,SD
+St. Louis,MO -> Wheeling,WV|452|St. Louis,MO|Wheeling,WV
+Granite City,IL -> Mankato,MN|453|Granite City,IL|Mankato,MN
+St. Louis,MO -> Leesville,LA|454|St. Louis,MO|Leesville,LA
+Lodi,CA -> Pacific,WA|455|Lodi,CA|Pacific,WA
+Aurora,CO -> Grand Forks,ND|456|Aurora,CO|Grand Forks,ND
+Columbus,OH -> Cartersville,GA|457|Columbus,OH|Cartersville,GA
+Portage,IN -> Buford,GA|458|Portage,IN|Buford,GA
+Laredo,TX -> Milwaukee,WI|459|Laredo,TX|Milwaukee,WI
+St. Louis,MO -> Parkersburg,WV|460|St. Louis,MO|Parkersburg,WV
+St. Louis,MO -> Metairie,LA|461|St. Louis,MO|Metairie,LA
+Fort Collins,CO -> Sauk Rapids,MN|462|Fort Collins,CO|Sauk Rapids,MN
+Bridgewater,NJ -> Miami,FL|463|Bridgewater,NJ|Miami,FL
+Tampa,FL -> Lockport,NY|464|Tampa,FL|Lockport,NY
+Greenfield,IN -> Commerce,GA|465|Greenfield,IN|Commerce,GA
+Wild Rose,WI -> Reading,PA|466|Wild Rose,WI|Reading,PA
+Baldwinsville,NY -> Milford,MA|467|Baldwinsville,NY|Milford,MA
+Holdrege,NE -> Russellville,KY|468|Holdrege,NE|Russellville,KY
+Fort Collins,CO -> Trinity,TX|469|Fort Collins,CO|Trinity,TX
+Columbus,OH -> Peoria,IL|470|Columbus,OH|Peoria,IL
+Newark,NJ -> Orange,CT|471|Newark,NJ|Orange,CT
+Cartersville,GA -> Upper Marlboro,MD|472|Cartersville,GA|Upper Marlboro,MD
+Newark,NJ -> La Vergne,TN|473|Newark,NJ|La Vergne,TN
+Columbus,OH -> Hatfield,PA|474|Columbus,OH|Hatfield,PA
+Naperville,IL -> Memphis,TN|475|Naperville,IL|Memphis,TN
+Baldwinsville,NY -> Pittsburgh,PA|476|Baldwinsville,NY|Pittsburgh,PA
+Plant City,FL -> Uxbridge,MA|477|Plant City,FL|Uxbridge,MA
+Wilson,NC -> Cranston,RI|478|Wilson,NC|Cranston,RI
+Carlisle,PA -> Newark,NJ|479|Carlisle,PA|Newark,NJ
+Broomfield,CO -> Las Vegas,NV|480|Broomfield,CO|Las Vegas,NV
+Casa Grande,AZ -> Jefferson City,MO|481|Casa Grande,AZ|Jefferson City,MO
+Columbus,OH -> York,PA|482|Columbus,OH|York,PA
+Newark,NJ -> Baldwinsville,NY|483|Newark,NJ|Baldwinsville,NY
+Fort Collins,CO -> Kingman,AZ|484|Fort Collins,CO|Kingman,AZ
+Williamsburg,VA -> Charleston,SC|485|Williamsburg,VA|Charleston,SC
+La Porte,TX -> Lubbock,TX|486|La Porte,TX|Lubbock,TX
+Granite City,IL -> Starkville,MS|487|Granite City,IL|Starkville,MS
+St. Louis,MO -> Indian River,MI|488|St. Louis,MO|Indian River,MI
+Columbus,OH -> Warner Robins,GA|489|Columbus,OH|Warner Robins,GA
+St. Louis,MO -> Cartersville,GA|490|St. Louis,MO|Cartersville,GA
+Granite City,IL -> Rogers,MN|491|Granite City,IL|Rogers,MN
+Granite City,IL -> Fayetteville,AR|492|Granite City,IL|Fayetteville,AR
+Fort Collins,CO -> Jamestown,ND|493|Fort Collins,CO|Jamestown,ND
+Williamsburg,VA -> Harrisburg,PA|494|Williamsburg,VA|Harrisburg,PA
+Williamsburg,VA -> Gaithersburg,MD|495|Williamsburg,VA|Gaithersburg,MD
+Idaho Falls,ID -> Denver,CO|496|Idaho Falls,ID|Denver,CO
+Fort Collins,CO -> Eugene,OR|497|Fort Collins,CO|Eugene,OR
+Cartersville,GA -> Washington,DC|498|Cartersville,GA|Washington,DC
+Williamsburg,VA -> Nottingham,MD|499|Williamsburg,VA|Nottingham,MD
+Williamsburg,VA -> Winchester,VA|500|Williamsburg,VA|Winchester,VA
+Georgetown,SC -> Akron,OH|501|Georgetown,SC|Akron,OH
+Fort Collins,CO -> Pueblo,CO|502|Fort Collins,CO|Pueblo,CO
+Fort Collins,CO -> Texarkana,TX|503|Fort Collins,CO|Texarkana,TX
+Granite City,IL -> Kingsford,MI|504|Granite City,IL|Kingsford,MI
+Houston,TX -> Attalla,AL|505|Houston,TX|Attalla,AL
+La Porte,TX -> Abilene,TX|506|La Porte,TX|Abilene,TX
+Plant City,FL -> Claysburg,PA|507|Plant City,FL|Claysburg,PA
+Atlanta,GA -> Ephrata,PA|508|Atlanta,GA|Ephrata,PA
+St. Louis,MO -> Decatur,AL|509|St. Louis,MO|Decatur,AL
+Brooklyn,NY -> Plant City,FL|510|Brooklyn,NY|Plant City,FL
+Newark,NJ -> Shirley,NY|511|Newark,NJ|Shirley,NY
+Williamsburg,VA -> Norcross,GA|512|Williamsburg,VA|Norcross,GA
+Conover,NC -> McKinney,TX|513|Conover,NC|McKinney,TX
+Plant City,FL -> Dallas,TX|514|Plant City,FL|Dallas,TX
+Johnstown,CO -> Greenville,SC|515|Johnstown,CO|Greenville,SC
+South Jordan,UT -> Tolleson,AZ|516|South Jordan,UT|Tolleson,AZ
+Bridgewater,NJ -> Rayne,LA|517|Bridgewater,NJ|Rayne,LA
+Connelly Springs,NC -> Warren,OH|518|Connelly Springs,NC|Warren,OH
+Delano,MN -> Austin,TX|519|Delano,MN|Austin,TX
+Erie,PA -> Baldwinsville,NY|520|Erie,PA|Baldwinsville,NY
+Granite City,IL -> Indian River,MI|521|Granite City,IL|Indian River,MI
+Newark,NJ -> Merrimack,NH|522|Newark,NJ|Merrimack,NH
+Bolingbrook,IL -> Memphis,TN|523|Bolingbrook,IL|Memphis,TN
+Sioux City,IA -> Danville,IL|524|Sioux City,IA|Danville,IL
+Newark,NJ -> Milford,MA|525|Newark,NJ|Milford,MA
+Statesboro,GA -> Brooklyn,NY|526|Statesboro,GA|Brooklyn,NY
+Baldwinsville,NY -> Gladstone,MI|527|Baldwinsville,NY|Gladstone,MI
+Ellerbe,NC -> New Windsor,NY|528|Ellerbe,NC|New Windsor,NY
+Fort Collins,CO -> Harlingen,TX|529|Fort Collins,CO|Harlingen,TX
+Columbus,OH -> Marquette,MI|530|Columbus,OH|Marquette,MI
+Granite City,IL -> Marshfield,WI|531|Granite City,IL|Marshfield,WI
+St. Louis,MO -> Camden,AR|532|St. Louis,MO|Camden,AR
+St. Louis,MO -> Alexandria,MN|533|St. Louis,MO|Alexandria,MN
+St. Louis,MO -> Pine Bluff,AR|534|St. Louis,MO|Pine Bluff,AR
+Lake Park,GA -> Hyattsville,MD|535|Lake Park,GA|Hyattsville,MD
+Williamsburg,VA -> Pittsburgh,PA|536|Williamsburg,VA|Pittsburgh,PA
+Fairfield,CA -> Union Gap,WA|537|Fairfield,CA|Union Gap,WA
+Aurora,CO -> Havre,MT|538|Aurora,CO|Havre,MT
+Houston,TX -> Gallup,NM|539|Houston,TX|Gallup,NM
+Fort Collins,CO -> Sparks,NV|540|Fort Collins,CO|Sparks,NV
+Bridgewater,NJ -> Gonzales,TX|541|Bridgewater,NJ|Gonzales,TX
+Granite City,IL -> Bad Axe,MI|542|Granite City,IL|Bad Axe,MI
+Houston,TX -> El Paso,TX|543|Houston,TX|El Paso,TX
+St. Louis,MO -> Smoot,WV|544|St. Louis,MO|Smoot,WV
+Xenia,OH -> Memphis,TN|545|Xenia,OH|Memphis,TN
+St. Louis,MO -> Hibbing,MN|546|St. Louis,MO|Hibbing,MN
+Madison Heights,MI -> Mount Holly,NC|547|Madison Heights,MI|Mount Holly,NC
+Granite City,IL -> Bardstown,KY|548|Granite City,IL|Bardstown,KY
+Garfield,NM -> Los Alamitos,CA|549|Garfield,NM|Los Alamitos,CA
+Merrimack,NH -> Elizabeth City,NC|550|Merrimack,NH|Elizabeth City,NC
+Johnstown,PA -> Baldwinsville,NY|551|Johnstown,PA|Baldwinsville,NY
+Columbus,IN -> Statesville,NC|552|Columbus,IN|Statesville,NC
+Jacksonville,FL -> Columbus,OH|553|Jacksonville,FL|Columbus,OH
+McCook,NE -> Rosemount,MN|554|McCook,NE|Rosemount,MN
+Dunn,NC -> Bronx,NY|555|Dunn,NC|Bronx,NY
+Fort Collins,CO -> Moorhead,MN|556|Fort Collins,CO|Moorhead,MN
+Granite City,IL -> La Vergne,TN|557|Granite City,IL|La Vergne,TN
+Columbus,OH -> Chicopee,MA|558|Columbus,OH|Chicopee,MA
+Jacksonville,FL -> Rocky Mount,NC|559|Jacksonville,FL|Rocky Mount,NC
+Granite City,IL -> Ironwood,MI|560|Granite City,IL|Ironwood,MI
+Wray,CO -> Denver,CO|561|Wray,CO|Denver,CO
+St. Louis,MO -> Superior,WI|562|St. Louis,MO|Superior,WI
+Fort Collins,CO -> Farmington,NM|563|Fort Collins,CO|Farmington,NM
+Statesboro,GA -> Bronx,NY|564|Statesboro,GA|Bronx,NY
+Newark,NJ -> Pittsburgh,PA|565|Newark,NJ|Pittsburgh,PA
+Colonial Heights,VA -> Huntington,WV|566|Colonial Heights,VA|Huntington,WV
+Columbus,OH -> Jacksonville,FL|567|Columbus,OH|Jacksonville,FL
+Granite City,IL -> Council Bluffs,IA|568|Granite City,IL|Council Bluffs,IA
+Georgetown Township,MI -> York,PA|569|Georgetown Township,MI|York,PA
+Fort Collins,CO -> Durango,CO|570|Fort Collins,CO|Durango,CO
+Granite City,IL -> Knoxville,TN|571|Granite City,IL|Knoxville,TN
+Sioux City,IA -> Republic,MO|572|Sioux City,IA|Republic,MO
+Los Angeles,CA -> Redding,CA|573|Los Angeles,CA|Redding,CA
+Los Angeles,CA -> Yuma,AZ|574|Los Angeles,CA|Yuma,AZ
+Grapevine,TX -> Houston,TX|575|Grapevine,TX|Houston,TX
+Granite City,IL -> Beloit,KS|576|Granite City,IL|Beloit,KS
+Fort Collins,CO -> Missoula,MT|577|Fort Collins,CO|Missoula,MT
+Los Angeles,CA -> Fallon,NV|578|Los Angeles,CA|Fallon,NV
+Aurora,CO -> Minot,ND|579|Aurora,CO|Minot,ND
+Fort Collins,CO -> Moab,UT|580|Fort Collins,CO|Moab,UT
+Denver,PA -> Ponca City,OK|581|Denver,PA|Ponca City,OK
+Charlotte,NC -> Swedesboro,NJ|582|Charlotte,NC|Swedesboro,NJ
+Granite City,IL -> Fridley,MN|583|Granite City,IL|Fridley,MN
+Mount Airy,NC -> Swedesboro,NJ|584|Mount Airy,NC|Swedesboro,NJ
+Fort Collins,CO -> Minot,ND|585|Fort Collins,CO|Minot,ND
+Los Angeles,CA -> Safford,AZ|586|Los Angeles,CA|Safford,AZ
+Georgetown,SC -> Millwood,WV|587|Georgetown,SC|Millwood,WV
+Arrey,NM -> Fort Worth,TX|588|Arrey,NM|Fort Worth,TX
+Staley,NC -> Brooklyn,NY|589|Staley,NC|Brooklyn,NY
+Compton,CA -> Sacramento,CA|590|Compton,CA|Sacramento,CA
+Plant City,FL -> Leola,PA|591|Plant City,FL|Leola,PA
+Plant City,FL -> Newark,NJ|592|Plant City,FL|Newark,NJ
+Canton,OH -> Memphis,TN|593|Canton,OH|Memphis,TN
+Granite City,IL -> Lima,OH|594|Granite City,IL|Lima,OH
+Newark,NJ -> Loxley,AL|595|Newark,NJ|Loxley,AL
+Annapolis,MD -> Baldwinsville,NY|596|Annapolis,MD|Baldwinsville,NY
+St. Louis,MO -> Shannon,MS|597|St. Louis,MO|Shannon,MS
+Fort Collins,CO -> Cedar City,UT|598|Fort Collins,CO|Cedar City,UT
+Burley,ID -> Fife,WA|599|Burley,ID|Fife,WA
+Los Angeles,CA -> Sparks,NV|600|Los Angeles,CA|Sparks,NV
+Romeoville,IL -> York,PA|601|Romeoville,IL|York,PA
+Lebanon,IN -> Auburn,NY|602|Lebanon,IN|Auburn,NY
+Williamsburg,VA -> Baldwinsville,NY|603|Williamsburg,VA|Baldwinsville,NY
+Idaho Falls,ID -> Spokane,WA|604|Idaho Falls,ID|Spokane,WA
+Aurora,CO -> Salt Lake City,UT|605|Aurora,CO|Salt Lake City,UT
+Compton,CA -> Tracy,CA|606|Compton,CA|Tracy,CA
+St. Louis,MO -> Dubuque,IA|607|St. Louis,MO|Dubuque,IA
+Tuscaloosa,AL -> Cleveland,OH|608|Tuscaloosa,AL|Cleveland,OH
+Aurora,CO -> Huron,SD|609|Aurora,CO|Huron,SD
+Cartersville,GA -> Midway,FL|610|Cartersville,GA|Midway,FL
+Aurora,CO -> Oklahoma City,OK|611|Aurora,CO|Oklahoma City,OK
+Fort Collins,CO -> Alexandria,LA|612|Fort Collins,CO|Alexandria,LA
+Aurora,CO -> Boise,ID|613|Aurora,CO|Boise,ID
+Granite City,IL -> Rapid City,SD|614|Granite City,IL|Rapid City,SD
+St. Louis,MO -> Laurel,MS|615|St. Louis,MO|Laurel,MS
+New Hyde Park,NY -> Minneapolis,MN|616|New Hyde Park,NY|Minneapolis,MN
+Granite City,IL -> Huron,SD|617|Granite City,IL|Huron,SD
+Fort Collins,CO -> Grand Forks,ND|618|Fort Collins,CO|Grand Forks,ND
+Jacksonville,FL -> Dallas,TX|619|Jacksonville,FL|Dallas,TX
+Westfield,MA -> Franklin Park,IL|620|Westfield,MA|Franklin Park,IL
+La Porte,TX -> Hattiesburg,MS|621|La Porte,TX|Hattiesburg,MS
+Denver,CO -> Charleston,TN|622|Denver,CO|Charleston,TN
+Granite City,IL -> Hibbing,MN|623|Granite City,IL|Hibbing,MN
+Colonial Heights,VA -> Homestead,FL|624|Colonial Heights,VA|Homestead,FL
+Decatur,IN -> Memphis,TN|625|Decatur,IN|Memphis,TN
+Aurora,CO -> Amarillo,TX|626|Aurora,CO|Amarillo,TX
+Granite City,IL -> Sparta,WI|627|Granite City,IL|Sparta,WI
+Baldwinsville,NY -> Newark,NJ|628|Baldwinsville,NY|Newark,NJ
+Fort Collins,CO -> Boise,ID|629|Fort Collins,CO|Boise,ID
+Colonial Heights,VA -> Loxley,AL|630|Colonial Heights,VA|Loxley,AL
+Fort Collins,CO -> Vernal,UT|631|Fort Collins,CO|Vernal,UT
+Granite City,IL -> Carroll,IA|632|Granite City,IL|Carroll,IA
+Houston,TX -> Amarillo,TX|633|Houston,TX|Amarillo,TX
+Newark,NJ -> Fairmont,WV|634|Newark,NJ|Fairmont,WV
+Cartersville,GA -> La Porte,TX|635|Cartersville,GA|La Porte,TX
+Fort Collins,CO -> Grand Rapids,MI|636|Fort Collins,CO|Grand Rapids,MI
+Houston,TX -> Monroe,LA|637|Houston,TX|Monroe,LA
+St. Louis,MO -> Fridley,MN|638|St. Louis,MO|Fridley,MN
+Cartersville,GA -> Lake Charles,LA|639|Cartersville,GA|Lake Charles,LA
+Granite City,IL -> East Peoria,IL|640|Granite City,IL|East Peoria,IL
+Merrimack,NH -> Baldwinsville,NY|641|Merrimack,NH|Baldwinsville,NY
+Medley,FL -> Calhoun,KY|642|Medley,FL|Calhoun,KY
+Plant City,FL -> Sioux City,IA|643|Plant City,FL|Sioux City,IA
+St. Louis,MO -> Carroll,IA|644|St. Louis,MO|Carroll,IA
+St. Louis,MO -> Schofield,WI|645|St. Louis,MO|Schofield,WI
+Granite City,IL -> El Dorado,KS|646|Granite City,IL|El Dorado,KS
+Newark,NJ -> Johnstown,PA|647|Newark,NJ|Johnstown,PA
+Williamsburg,VA -> Lake City,FL|648|Williamsburg,VA|Lake City,FL
+Pueblo,CO -> Sioux City,IA|649|Pueblo,CO|Sioux City,IA
+La Porte,TX -> Granite City,IL|650|La Porte,TX|Granite City,IL
+Aurora,CO -> Miles City,MT|651|Aurora,CO|Miles City,MT
+Mount Airy,NC -> Memphis,TN|652|Mount Airy,NC|Memphis,TN
+Laredo,TX -> Troy,AL|653|Laredo,TX|Troy,AL
+Braitwaite,LA -> Brazil,IN|654|Braitwaite,LA|Brazil,IN
+La Porte,TX -> Monroe,LA|655|La Porte,TX|Monroe,LA
+Granite City,IL -> Dodge City,KS|656|Granite City,IL|Dodge City,KS
+Houston,TX -> San Angelo,TX|657|Houston,TX|San Angelo,TX
+Jacksonville,FL -> Sanford,FL|658|Jacksonville,FL|Sanford,FL
+Jacksonville,FL -> Miami,FL|659|Jacksonville,FL|Miami,FL
+Aurora,CO -> Lenexa,KS|660|Aurora,CO|Lenexa,KS
+Colonial Heights,VA -> Sanford,FL|661|Colonial Heights,VA|Sanford,FL
+Jacksonville,FL -> Florence,SC|662|Jacksonville,FL|Florence,SC
+St. Louis,MO -> Longview,TX|663|St. Louis,MO|Longview,TX
+Carlisle,PA -> Manchester,CT|664|Carlisle,PA|Manchester,CT
+Laredo,TX -> Chapel Hill,TN|665|Laredo,TX|Chapel Hill,TN
+Fort Collins,CO -> Adelanto,CA|666|Fort Collins,CO|Adelanto,CA
+Granite City,IL -> Lawrence,KS|667|Granite City,IL|Lawrence,KS
+Romeoville,IL -> Commerce,GA|668|Romeoville,IL|Commerce,GA
+Granite City,IL -> Schofield,WI|669|Granite City,IL|Schofield,WI
+St. Louis,MO -> Ironwood,MI|670|St. Louis,MO|Ironwood,MI
+Williamsburg,VA -> Cranston,RI|671|Williamsburg,VA|Cranston,RI
+Cartersville,GA -> Mobile,AL|672|Cartersville,GA|Mobile,AL
+Cartersville,GA -> Ebro,FL|673|Cartersville,GA|Ebro,FL
+Plant City,FL -> Des Moines,IA|674|Plant City,FL|Des Moines,IA
+Aurora,CO -> Jamestown,ND|675|Aurora,CO|Jamestown,ND
+St. Louis,MO -> Albert Lea,MN|676|St. Louis,MO|Albert Lea,MN
+Newark,NJ -> Linwood,NC|677|Newark,NJ|Linwood,NC
+Aurora,CO -> Elko,NV|678|Aurora,CO|Elko,NV
+Chatsworth,IL -> Roseboro,NC|679|Chatsworth,IL|Roseboro,NC
+Rochester,NY -> Newark,NJ|680|Rochester,NY|Newark,NJ
+St. Louis,MO -> Romulus,MI|681|St. Louis,MO|Romulus,MI
+St. Louis,MO -> Lincoln,NE|682|St. Louis,MO|Lincoln,NE
+Akron,OH -> Statesville,NC|683|Akron,OH|Statesville,NC
+Los Angeles,CA -> Carson City,NV|684|Los Angeles,CA|Carson City,NV
+North Charleston,SC -> Memphis,TN|685|North Charleston,SC|Memphis,TN
+Erie,PA -> Cartersville,GA|686|Erie,PA|Cartersville,GA
+Braithwaite,LA -> Cleveland,OH|687|Braithwaite,LA|Cleveland,OH
+Etowah,TN -> Memphis,TN|688|Etowah,TN|Memphis,TN
+Cartersville,GA -> Johnson City,TN|689|Cartersville,GA|Johnson City,TN
+Houston,TX -> Lebanon,MO|690|Houston,TX|Lebanon,MO
+Granite City,IL -> Eau Claire,WI|691|Granite City,IL|Eau Claire,WI
+Aurora,CO -> Sioux Falls,SD|692|Aurora,CO|Sioux Falls,SD
+Wabash,IN -> Glasgow,KY|693|Wabash,IN|Glasgow,KY
+Newark,NJ -> Granite City,IL|694|Newark,NJ|Granite City,IL
+Baldwinsville,NY -> Patchogue,NY|695|Baldwinsville,NY|Patchogue,NY
+Romulus,MI -> Baldwinsville,NY|696|Romulus,MI|Baldwinsville,NY
+Plant City,FL -> Brook Park,OH|697|Plant City,FL|Brook Park,OH
+Georgetown,SC -> Willacoochee,GA|698|Georgetown,SC|Willacoochee,GA
+Conover,NC -> Denton,TX|699|Conover,NC|Denton,TX
+Plant City,FL -> Warren,MI|700|Plant City,FL|Warren,MI
+Salisbury,NC -> Memphis,TN|701|Salisbury,NC|Memphis,TN
+Wilkes-Barre,PA -> Columbia,SC|702|Wilkes-Barre,PA|Columbia,SC
+Newark,NJ -> Williamsburg,VA|703|Newark,NJ|Williamsburg,VA
+Granite City,IL -> Peru,IN|704|Granite City,IL|Peru,IN
+Colonial Heights,VA -> Orlando,FL|705|Colonial Heights,VA|Orlando,FL
+Jacksonville,FL -> LaGrange,GA|706|Jacksonville,FL|LaGrange,GA
+Aurora,CO -> Tulsa,OK|707|Aurora,CO|Tulsa,OK
+St. Louis,MO -> Bay City,MI|708|St. Louis,MO|Bay City,MI
+Angier,NC -> Brooklyn,NY|709|Angier,NC|Brooklyn,NY
+St. Louis,MO -> Sioux City,IA|710|St. Louis,MO|Sioux City,IA
+Columbus,OH -> Pevely,MO|711|Columbus,OH|Pevely,MO
+Erie,PA -> Columbus,OH|712|Erie,PA|Columbus,OH
+Johnstown,PA -> Newark,NJ|713|Johnstown,PA|Newark,NJ
+Gastonia,NC -> Clinton,IA|714|Gastonia,NC|Clinton,IA
+St. Louis,MO -> Youngstown,OH|715|St. Louis,MO|Youngstown,OH
+Baldwinsville,NY -> Williamsburg,VA|716|Baldwinsville,NY|Williamsburg,VA
+Aurora,CO -> Vernal,UT|717|Aurora,CO|Vernal,UT
+Newark,NJ -> Jackson,MI|718|Newark,NJ|Jackson,MI
+Morris,IL -> Denison,TX|719|Morris,IL|Denison,TX
+La Porte,TX -> Madisonville,LA|720|La Porte,TX|Madisonville,LA
+Colonial Heights,VA -> Bristol,VA|721|Colonial Heights,VA|Bristol,VA
+La Porte,TX -> Texarkana,TX|722|La Porte,TX|Texarkana,TX
+Jacksonville,FL -> Sumter,SC|723|Jacksonville,FL|Sumter,SC
+Fort Collins,CO -> Las Cruces,NM|724|Fort Collins,CO|Las Cruces,NM
+Idaho Falls,ID -> Auburn,WA|725|Idaho Falls,ID|Auburn,WA
+Newark,NJ -> Cedar Rapids,IA|726|Newark,NJ|Cedar Rapids,IA
+St. Louis,MO -> Dundas,MN|727|St. Louis,MO|Dundas,MN
+Houston,TX -> Alexandria,LA|728|Houston,TX|Alexandria,LA
+Denver,CO -> Las Vegas,NV|729|Denver,CO|Las Vegas,NV
+Carlisle,PA -> Hooksett,NH|730|Carlisle,PA|Hooksett,NH
+La Porte,TX -> Lafayette,LA|731|La Porte,TX|Lafayette,LA
+Williamsburg,VA -> Erie,PA|732|Williamsburg,VA|Erie,PA
+Cartersville,GA -> Vicksburg,MS|733|Cartersville,GA|Vicksburg,MS
+Medley,FL -> Allentown,PA|734|Medley,FL|Allentown,PA
+Louisville,KY -> Nashville,IL|735|Louisville,KY|Nashville,IL
+St. Louis,MO -> West Union,IA|736|St. Louis,MO|West Union,IA
+Baldwinsville,NY -> Jersey City,NJ|737|Baldwinsville,NY|Jersey City,NJ
+Tuscaloosa,AL -> Paris,TX|738|Tuscaloosa,AL|Paris,TX
+Aurora,CO -> Cedar City,UT|739|Aurora,CO|Cedar City,UT
+Cartersville,GA -> Longview,TX|740|Cartersville,GA|Longview,TX
+St. Louis,MO -> Columbus,OH|741|St. Louis,MO|Columbus,OH
+Cartersville,GA -> Ocala,FL|742|Cartersville,GA|Ocala,FL
+Granite City,IL -> Jackson,MS|743|Granite City,IL|Jackson,MS
+Cartersville,GA -> Charleston,SC|744|Cartersville,GA|Charleston,SC
+Williamsburg,VA -> Martinsburg,WV|745|Williamsburg,VA|Martinsburg,WV
+Fort Collins,CO -> San Antonio,TX|746|Fort Collins,CO|San Antonio,TX
+Houston,TX -> Pine Bluff,AR|747|Houston,TX|Pine Bluff,AR
+Edison,NJ -> Yazoo City,MS|748|Edison,NJ|Yazoo City,MS
+Port Wentworth,GA -> Katy,TX|749|Port Wentworth,GA|Katy,TX
+Fairfield,CA -> Eugene,OR|750|Fairfield,CA|Eugene,OR
+Baldwinsville,NY -> Lewiston,ME|751|Baldwinsville,NY|Lewiston,ME
+Granite City,IL -> Saint Paul,MN|752|Granite City,IL|Saint Paul,MN
+Baldwinsville,NY -> Port Huron,MI|753|Baldwinsville,NY|Port Huron,MI
+Wilkes-Barre,PA -> Lexington,SC|754|Wilkes-Barre,PA|Lexington,SC
+Williamsburg,VA -> Saratoga Springs,NY|755|Williamsburg,VA|Saratoga Springs,NY
+Granite City,IL -> Marquette,MI|756|Granite City,IL|Marquette,MI
+Columbus,OH -> Erie,PA|757|Columbus,OH|Erie,PA
+Jacksonville,FL -> Homestead,FL|758|Jacksonville,FL|Homestead,FL
+Houston,TX -> Lubbock,TX|759|Houston,TX|Lubbock,TX
+Aurora,CO -> Independence,KS|760|Aurora,CO|Independence,KS
+St. Louis,MO -> Poteau,OK|761|St. Louis,MO|Poteau,OK
+Baldwinsville,NY -> Chesapeake,VA|762|Baldwinsville,NY|Chesapeake,VA
+Houston,TX -> Odessa,TX|763|Houston,TX|Odessa,TX
+Baldwinsville,NY -> Oakland,ME|764|Baldwinsville,NY|Oakland,ME
+Fort Payne,AL -> Orlando,FL|765|Fort Payne,AL|Orlando,FL
+Williamsburg,VA -> Winston-Salem,NC|766|Williamsburg,VA|Winston-Salem,NC
+Columbus,OH -> Danville,VA|767|Columbus,OH|Danville,VA
+Colonial Heights,VA -> Bridgeport,WV|768|Colonial Heights,VA|Bridgeport,WV
+Reidsville,NC -> Edison,NJ|769|Reidsville,NC|Edison,NJ
+Colfax,NC -> Waukegan,IL|770|Colfax,NC|Waukegan,IL
+La Porte,TX -> Albuquerque,NM|771|La Porte,TX|Albuquerque,NM
+Fort Collins,CO -> Rapid City,SD|772|Fort Collins,CO|Rapid City,SD
+Fort Collins,CO -> Hays,KS|773|Fort Collins,CO|Hays,KS
+Cartersville,GA -> Meridian,MS|774|Cartersville,GA|Meridian,MS
+Jacksonville,FL -> Fort Lauderdale,FL|775|Jacksonville,FL|Fort Lauderdale,FL
+St. Louis,MO -> Rochester,MN|776|St. Louis,MO|Rochester,MN
+Newark,NJ -> Winchester,VA|777|Newark,NJ|Winchester,VA
+Newark,NJ -> Romney,WV|778|Newark,NJ|Romney,WV
+Cartersville,GA -> Henderson,NC|779|Cartersville,GA|Henderson,NC
+Jacksonville,FL -> Meridian,MS|780|Jacksonville,FL|Meridian,MS
+St. Louis,MO -> La Vergne,TN|781|St. Louis,MO|La Vergne,TN
+Newark,NJ -> Schofield,WI|782|Newark,NJ|Schofield,WI
+Aurora,CO -> Hutchinson,KS|783|Aurora,CO|Hutchinson,KS
+Aurora,CO -> Williston,ND|784|Aurora,CO|Williston,ND
+Conover,NC -> Edison,NJ|785|Conover,NC|Edison,NJ
+Lebanon,IN -> York,PA|786|Lebanon,IN|York,PA
+Opa-locka,FL -> Calhoun,KY|787|Opa-locka,FL|Calhoun,KY
+Santa Ana,CA -> Modesto,CA|788|Santa Ana,CA|Modesto,CA
+Tracy,CA -> Tolleson,AZ|789|Tracy,CA|Tolleson,AZ
+Timberville,VA -> Memphis,TN|790|Timberville,VA|Memphis,TN
+Newark,NJ -> Westmoreland,NY|791|Newark,NJ|Westmoreland,NY
+Cartersville,GA -> Saint Augustine,FL|792|Cartersville,GA|Saint Augustine,FL
+Colonial Heights,VA -> Wrightsville,PA|793|Colonial Heights,VA|Wrightsville,PA
+La Porte,TX -> Natchitoches,LA|794|La Porte,TX|Natchitoches,LA
+Wilkes-Barre,PA -> Jackson,TN|795|Wilkes-Barre,PA|Jackson,TN
+Portland,OR -> Spokane Valley,WA|796|Portland,OR|Spokane Valley,WA
+Columbus,OH -> Lynchburg,VA|797|Columbus,OH|Lynchburg,VA
+Houston,TX -> Lafayette,LA|798|Houston,TX|Lafayette,LA
+Granite City,IL -> Muskegon,MI|799|Granite City,IL|Muskegon,MI
+Jacksonville,FL -> Johnson City,TN|800|Jacksonville,FL|Johnson City,TN
+Romulus,MI -> Atlanta,GA|801|Romulus,MI|Atlanta,GA
+Flowery Branch,GA -> Canton,OH|802|Flowery Branch,GA|Canton,OH
+St. Louis,MO -> Tulsa,OK|803|St. Louis,MO|Tulsa,OK
+Knoxville,TN -> Clinton,IA|804|Knoxville,TN|Clinton,IA
+Jacksonville,FL -> Naples,FL|805|Jacksonville,FL|Naples,FL
+Erie,PA -> Newark,NJ|806|Erie,PA|Newark,NJ
+Fort Collins,CO -> Lubbock,TX|807|Fort Collins,CO|Lubbock,TX
+Newark,NJ -> Green Bay,WI|808|Newark,NJ|Green Bay,WI
+Granite City,IL -> Sauk Rapids,MN|809|Granite City,IL|Sauk Rapids,MN
+Cartersville,GA -> Lake City,FL|810|Cartersville,GA|Lake City,FL
+Williamsburg,VA -> Raleigh,NC|811|Williamsburg,VA|Raleigh,NC
+St. Louis,MO -> West Memphis,AR|812|St. Louis,MO|West Memphis,AR
+Granite City,IL -> Mansfield,OH|813|Granite City,IL|Mansfield,OH
+Columbus,OH -> Roanoke,VA|814|Columbus,OH|Roanoke,VA
+Vineland,NJ -> Bronx,NY|815|Vineland,NJ|Bronx,NY
+Valparaiso,IN -> Ankeny,IA|816|Valparaiso,IN|Ankeny,IA
+Clayton,NC -> Tampa,FL|817|Clayton,NC|Tampa,FL
+Geneva,NY -> Ephrata,PA|818|Geneva,NY|Ephrata,PA
+Mount Airy,NC -> Buford,GA|819|Mount Airy,NC|Buford,GA
+Washington,PA -> Philadelphia,PA|820|Washington,PA|Philadelphia,PA
+Baltimore,MD -> Syracuse,NY|821|Baltimore,MD|Syracuse,NY
+Casa Grande,AZ -> Fremont,CA|822|Casa Grande,AZ|Fremont,CA
+Upper Marlboro,MD -> Methuen,MA|823|Upper Marlboro,MD|Methuen,MA
+Granite City,IL -> Portland,IN|824|Granite City,IL|Portland,IN
+1,LA -> Brazil,IN|825|1,LA|Brazil,IN
+Merrimack,NH -> Patchogue,NY|826|Merrimack,NH|Patchogue,NY
+Jacksonville,FL -> Wilmington,NC|827|Jacksonville,FL|Wilmington,NC
+Buffalo,NY -> New Brunswick,NJ|828|Buffalo,NY|New Brunswick,NJ
+Carlisle,PA -> Orange,CT|829|Carlisle,PA|Orange,CT
+New York,NY -> Clifton Park,NY|830|New York,NY|Clifton Park,NY
+Aurora,CO -> Riverton,WY|831|Aurora,CO|Riverton,WY
+St. Louis,MO -> Olive Branch,MS|832|St. Louis,MO|Olive Branch,MS
+Williamsburg,VA -> Greensboro,NC|833|Williamsburg,VA|Greensboro,NC
+Kent,WA -> Spokane,WA|834|Kent,WA|Spokane,WA
+Irvington,NJ -> Chicago,IL|835|Irvington,NJ|Chicago,IL
+McCook,NE -> Chicago,IL|836|McCook,NE|Chicago,IL
+Pittsburgh,PA -> Greenfield,IN|837|Pittsburgh,PA|Greenfield,IN
+Williamsburg,VA -> Florence,SC|838|Williamsburg,VA|Florence,SC
+Fort Collins,CO -> Sedalia,MO|839|Fort Collins,CO|Sedalia,MO
+Covesville,VA -> Jacksonville,FL|840|Covesville,VA|Jacksonville,FL
+Houston,TX -> Loxley,AL|841|Houston,TX|Loxley,AL
+Houston,TX -> Lake Charles,LA|842|Houston,TX|Lake Charles,LA
+Los Angeles,CA -> Bisbee,AZ|843|Los Angeles,CA|Bisbee,AZ
+Aurora,CO -> Grand Island,NE|844|Aurora,CO|Grand Island,NE
+Granite City,IL -> Kokomo,IN|845|Granite City,IL|Kokomo,IN
+Carlisle,PA -> Medford,MA|846|Carlisle,PA|Medford,MA
+Jacksonville,FL -> Cartersville,GA|847|Jacksonville,FL|Cartersville,GA
+La Porte,TX -> Lake Charles,LA|848|La Porte,TX|Lake Charles,LA
+Jacksonville,FL -> Columbia,SC|849|Jacksonville,FL|Columbia,SC
+La Porte,TX -> Ferriday,LA|850|La Porte,TX|Ferriday,LA
+Mount Ayr,IA -> Laceys Spring,AL|851|Mount Ayr,IA|Laceys Spring,AL
+Granite City,IL -> Dubuque,IA|852|Granite City,IL|Dubuque,IA
+Jacksonville,FL -> Opelika,AL|853|Jacksonville,FL|Opelika,AL
+Fort Collins,CO -> Lewistown,MT|854|Fort Collins,CO|Lewistown,MT
+Houston,TX -> Hutchinson,KS|855|Houston,TX|Hutchinson,KS
+Dunn,NC -> Moonachie,NJ|856|Dunn,NC|Moonachie,NJ
+Newark,NJ -> Rock Hill,SC|857|Newark,NJ|Rock Hill,SC
+Newark,NJ -> Jackson,TN|858|Newark,NJ|Jackson,TN
+Halls,TN -> Dallas,TX|859|Halls,TN|Dallas,TX
+Oxnard,CA -> Tolleson,AZ|860|Oxnard,CA|Tolleson,AZ
+Opelika,AL -> Bryan,OH|861|Opelika,AL|Bryan,OH
+Los Angeles,CA -> Richmond,CA|862|Los Angeles,CA|Richmond,CA
+Columbus,OH -> Bay City,MI|863|Columbus,OH|Bay City,MI
+South Windsor,CT -> Baldwinsville,NY|864|South Windsor,CT|Baldwinsville,NY
+Granite City,IL -> Vicksburg,MS|865|Granite City,IL|Vicksburg,MS
+St. Louis,MO -> Decatur,IL|866|St. Louis,MO|Decatur,IL
+Walnut Ridge,AR -> Massillon,OH|867|Walnut Ridge,AR|Massillon,OH
+Dallas,TX -> Davenport,IA|868|Dallas,TX|Davenport,IA
+Columbus,OH -> Fredericksburg,VA|869|Columbus,OH|Fredericksburg,VA
+Aurora,CO -> Scottsbluff,NE|870|Aurora,CO|Scottsbluff,NE
+Fairfield,CA -> Medford,OR|871|Fairfield,CA|Medford,OR
+Houston,TX -> Camden,AR|872|Houston,TX|Camden,AR
+La Porte,TX -> Austin,TX|873|La Porte,TX|Austin,TX
+Houston,TX -> Gulfport,MS|874|Houston,TX|Gulfport,MS
+Houston,TX -> Roanoke,TX|875|Houston,TX|Roanoke,TX
+Tracy,CA -> Waddell,AZ|876|Tracy,CA|Waddell,AZ
+Jackson,WY -> Fort Collins,CO|877|Jackson,WY|Fort Collins,CO
+La Porte,TX -> Houma,LA|878|La Porte,TX|Houma,LA
+Tuscaloosa,AL -> Xenia,OH|879|Tuscaloosa,AL|Xenia,OH
+Wapato,WA -> Portland,OR|880|Wapato,WA|Portland,OR
+Ontario,CA -> Tolleson,AZ|881|Ontario,CA|Tolleson,AZ
+La Porte,TX -> Shreveport,LA|882|La Porte,TX|Shreveport,LA
+Cartersville,GA -> Pensacola,FL|883|Cartersville,GA|Pensacola,FL
+Cartersville,GA -> Gainesville,FL|884|Cartersville,GA|Gainesville,FL
+Granite City,IL -> Sheboygan,WI|885|Granite City,IL|Sheboygan,WI
+Orlando,FL -> Bryan,OH|886|Orlando,FL|Bryan,OH
+Aurora,CO -> Fremont,NE|887|Aurora,CO|Fremont,NE
+Columbus,OH -> Jenkins Township,PA|888|Columbus,OH|Jenkins Township,PA
+Clarksville,TN -> Columbus,OH|889|Clarksville,TN|Columbus,OH
+La Porte,TX -> Alexandria,LA|890|La Porte,TX|Alexandria,LA
+Williams,MN -> Coloma,WI|891|Williams,MN|Coloma,WI
+Houston,TX -> Metairie,LA|892|Houston,TX|Metairie,LA
+Lebanon,KY -> Mount Holly,NC|893|Lebanon,KY|Mount Holly,NC
+Colonial Heights,VA -> Clarksburg,WV|894|Colonial Heights,VA|Clarksburg,WV
+Jacksonville,FL -> Hickory,NC|895|Jacksonville,FL|Hickory,NC
+St. Louis,MO -> Cedar Rapids,IA|896|St. Louis,MO|Cedar Rapids,IA
+Carlisle,PA -> Carlstadt,NJ|897|Carlisle,PA|Carlstadt,NJ
+Granite City,IL -> Tulsa,OK|898|Granite City,IL|Tulsa,OK
+Pittsburgh,PA -> Fairfield,NJ|899|Pittsburgh,PA|Fairfield,NJ
+Paris,TN -> Gastonia,NC|900|Paris,TN|Gastonia,NC
+Lebanon,IN -> Commerce,GA|901|Lebanon,IN|Commerce,GA
+Zion,IL -> Athens,TN|902|Zion,IL|Athens,TN
+New York,NY -> Watervliet,NY|903|New York,NY|Watervliet,NY
+Lake Wales,FL -> Evans City,PA|904|Lake Wales,FL|Evans City,PA
+North East,MD -> South Windsor,CT|905|North East,MD|South Windsor,CT
+Brooklyn,NY -> Jersey City,NJ|906|Brooklyn,NY|Jersey City,NJ
+Houston,TX -> Natchitoches,LA|907|Houston,TX|Natchitoches,LA
+Franklin,VA -> Bringhurst,IN|908|Franklin,VA|Bringhurst,IN
+Plant City,FL -> Burlington,NJ|909|Plant City,FL|Burlington,NJ
+Columbus,OH -> Johnstown,PA|910|Columbus,OH|Johnstown,PA
+Lewistown,PA -> Newark,NJ|911|Lewistown,PA|Newark,NJ
+Chippewa Falls,WI -> Clinton,IA|912|Chippewa Falls,WI|Clinton,IA
+Des Moines,IA -> Columbus,OH|913|Des Moines,IA|Columbus,OH
+Philadelphia,PA -> Gastonia,NC|914|Philadelphia,PA|Gastonia,NC
+Sinking Spring,PA -> Gouverneur,NY|915|Sinking Spring,PA|Gouverneur,NY
+Fort Collins,CO -> Prescott Valley,AZ|916|Fort Collins,CO|Prescott Valley,AZ
+Jacksonville,FL -> Goldsboro,NC|917|Jacksonville,FL|Goldsboro,NC
+Santa Ana,CA -> Sacramento,CA|918|Santa Ana,CA|Sacramento,CA
+Cranbury Township,NJ -> New Paltz,NY|919|Cranbury Township,NJ|New Paltz,NY
+Reading,PA -> Everett,MA|920|Reading,PA|Everett,MA
+Granite City,IL -> Kirksville,MO|921|Granite City,IL|Kirksville,MO
+Granite City,IL -> Cedar Rapids,IA|922|Granite City,IL|Cedar Rapids,IA
+Cartersville,GA -> Richland,MS|923|Cartersville,GA|Richland,MS
+Front Royal,VA -> Hempstead,NY|924|Front Royal,VA|Hempstead,NY
+Piedmont,SC -> Columbus,OH|925|Piedmont,SC|Columbus,OH
+Jacksonville,FL -> West Palm Beach,FL|926|Jacksonville,FL|West Palm Beach,FL
+Carlisle,PA -> Philadelphia,PA|927|Carlisle,PA|Philadelphia,PA
+Williamsburg,VA -> Spartanburg,SC|928|Williamsburg,VA|Spartanburg,SC
+Breinigsville,PA -> Upper Marlboro,MD|929|Breinigsville,PA|Upper Marlboro,MD
+South Windsor,CT -> Bernhards Bay,NY|930|South Windsor,CT|Bernhards Bay,NY
+Houston,TX -> Austin,TX|931|Houston,TX|Austin,TX
+Jacksonville,FL -> Rock Hill,SC|932|Jacksonville,FL|Rock Hill,SC
+Irvington,NJ -> Napoleon,OH|933|Irvington,NJ|Napoleon,OH
+Spindale,NC -> Sikeston,MO|934|Spindale,NC|Sikeston,MO
+Huntingdon,TN -> Darlington,SC|935|Huntingdon,TN|Darlington,SC
+Monroe,WI -> Sheboygan,WI|936|Monroe,WI|Sheboygan,WI
+Newark,NJ -> Jamestown,NY|937|Newark,NJ|Jamestown,NY
+Houston,TX -> Harpersville,AL|938|Houston,TX|Harpersville,AL
+Carlisle,PA -> Shirley,NY|939|Carlisle,PA|Shirley,NY
+Tuscaloosa,AL -> Franklin,OH|940|Tuscaloosa,AL|Franklin,OH
+Tamaqua,PA -> East Jordan,MI|941|Tamaqua,PA|East Jordan,MI
+Colfax,NC -> Abbottstown,PA|942|Colfax,NC|Abbottstown,PA
+Charlotte,NC -> Memphis,TN|943|Charlotte,NC|Memphis,TN
+Cartersville,GA -> La Vergne,TN|944|Cartersville,GA|La Vergne,TN
+Houston,TX -> Richland,MS|945|Houston,TX|Richland,MS
+Fairfield,CA -> Carson,CA|946|Fairfield,CA|Carson,CA
+Cerritos,CA -> Tracy,CA|947|Cerritos,CA|Tracy,CA
+Rio Rico,AZ -> Los Angeles,CA|948|Rio Rico,AZ|Los Angeles,CA
+Philadelphia,PA -> Chapel Hill,TN|949|Philadelphia,PA|Chapel Hill,TN
+Boca Raton,FL -> Newport News,VA|950|Boca Raton,FL|Newport News,VA
+Braitwaite,LA -> Herculaneum,MO|951|Braitwaite,LA|Herculaneum,MO
+Newark,NJ -> State College,PA|952|Newark,NJ|State College,PA
+Jacksonville,FL -> Fort Myers,FL|953|Jacksonville,FL|Fort Myers,FL
+Denver,CO -> Lubbock,TX|954|Denver,CO|Lubbock,TX
+Jacksonville,FL -> Colonial Heights,VA|955|Jacksonville,FL|Colonial Heights,VA
+Tuscaloosa,AL -> Cincinnati,OH|956|Tuscaloosa,AL|Cincinnati,OH
+Newark,NJ -> Erie,PA|957|Newark,NJ|Erie,PA
+Houston,TX -> Houma,LA|958|Houston,TX|Houma,LA
+Williamsburg,VA -> Beaver,WV|959|Williamsburg,VA|Beaver,WV
+Jacksonville,FL -> Spartanburg,SC|960|Jacksonville,FL|Spartanburg,SC
+Brooklyn,NY -> Augusta,GA|961|Brooklyn,NY|Augusta,GA
+Granite City,IL -> Soddy-Daisy,TN|962|Granite City,IL|Soddy-Daisy,TN
+Paris,TN -> Wixom,MI|963|Paris,TN|Wixom,MI
+Bartow,WV -> Norton,VA|964|Bartow,WV|Norton,VA
+Spring Valley,NY -> Bronx,NY|965|Spring Valley,NY|Bronx,NY
+Pittston,PA -> Newington,CT|966|Pittston,PA|Newington,CT
+Ventura,CA -> Fremont,CA|967|Ventura,CA|Fremont,CA
+Knoxville,TN -> Wauconda,IL|968|Knoxville,TN|Wauconda,IL
+La Porte,TX -> Gulfport,MS|969|La Porte,TX|Gulfport,MS
+Wylie,TX -> Laredo,TX|970|Wylie,TX|Laredo,TX
+Aurora,CO -> Pueblo,CO|971|Aurora,CO|Pueblo,CO
+Clarksville,TN -> Clinton,IA|972|Clarksville,TN|Clinton,IA
+Colonial Heights,VA -> Rock Hill,SC|973|Colonial Heights,VA|Rock Hill,SC
+La Porte,TX -> Longview,TX|974|La Porte,TX|Longview,TX
+Newark,NJ -> Ypsilanti,MI|975|Newark,NJ|Ypsilanti,MI
+Tuscaloosa,AL -> Borden,IN|976|Tuscaloosa,AL|Borden,IN
+Wapakoneta,OH -> Canton,OH|977|Wapakoneta,OH|Canton,OH
+Vernon,CA -> Tracy,CA|978|Vernon,CA|Tracy,CA
+Newark,NJ -> Highland Park,MI|979|Newark,NJ|Highland Park,MI
+Granite City,IL -> Muskogee,OK|980|Granite City,IL|Muskogee,OK
+Aurora,CO -> Logan,UT|981|Aurora,CO|Logan,UT
+St. Louis,MO -> Hannibal,MO|982|St. Louis,MO|Hannibal,MO
+Portland,OR -> Fairfield,CA|983|Portland,OR|Fairfield,CA
+Fort Collins,CO -> Yankton,SD|984|Fort Collins,CO|Yankton,SD
+McCook,NE -> Davenport,IA|985|McCook,NE|Davenport,IA
+Williamsburg,VA -> Jersey City,NJ|986|Williamsburg,VA|Jersey City,NJ
+Newark,NJ -> Norwich,CT|987|Newark,NJ|Norwich,CT
+St. Louis,MO -> Traverse City,MI|988|St. Louis,MO|Traverse City,MI
+Austell,GA -> Cincinnati,OH|989|Austell,GA|Cincinnati,OH
+Latrobe,PA -> Wanaque,NJ|990|Latrobe,PA|Wanaque,NJ
+Commerce,CA -> Fremont,CA|991|Commerce,CA|Fremont,CA
+Cherry Hill,NJ -> North Kingstown,RI|992|Cherry Hill,NJ|North Kingstown,RI
+Congers,NY -> Saint Albans City,VT|993|Congers,NY|Saint Albans City,VT
+Conover,NC -> Crothersville,IN|994|Conover,NC|Crothersville,IN
+Wills Point,TX -> Northlake,IL|995|Wills Point,TX|Northlake,IL
+Atlanta,GA -> Roanoke,TX|996|Atlanta,GA|Roanoke,TX
+Statesville,NC -> Canton,OH|997|Statesville,NC|Canton,OH
+Davenport,IA -> Columbus,OH|998|Davenport,IA|Columbus,OH
+Newark,NJ -> Grand Rapids,MI|999|Newark,NJ|Grand Rapids,MI
+Cartersville,GA -> Summit,MS|1000|Cartersville,GA|Summit,MS
+Xenia,OH -> Wood Dale,IL|1001|Xenia,OH|Wood Dale,IL
+Granite City,IL -> Harpersville,AL|1002|Granite City,IL|Harpersville,AL
+Kansas City,MO -> New Haven,IN|1003|Kansas City,MO|New Haven,IN
+Baldwinsville,NY -> Medford,MA|1004|Baldwinsville,NY|Medford,MA
+Joplin,MO -> Athens,TN|1005|Joplin,MO|Athens,TN
+Portland,OR -> Commerce,CA|1006|Portland,OR|Commerce,CA
+Fort Collins,CO -> Rock Springs,WY|1007|Fort Collins,CO|Rock Springs,WY
+Newark,NJ -> Lincolnwood,IL|1008|Newark,NJ|Lincolnwood,IL
+Burt,NY -> Pennsauken Township,NJ|1009|Burt,NY|Pennsauken Township,NJ
+Carlisle,PA -> Springfield,VA|1010|Carlisle,PA|Springfield,VA
+Fort Collins,CO -> Steamboat Springs,CO|1011|Fort Collins,CO|Steamboat Springs,CO
+Atkins,VA -> Cleveland,NC|1012|Atkins,VA|Cleveland,NC
+Cartersville,GA -> Bardstown,KY|1013|Cartersville,GA|Bardstown,KY
+Fort Collins,CO -> Mobridge,SD|1014|Fort Collins,CO|Mobridge,SD
+Williamsburg,VA -> Sun Prairie,WI|1015|Williamsburg,VA|Sun Prairie,WI
+Laredo,TX -> Waco,TX|1016|Laredo,TX|Waco,TX
+Conover,NC -> Florence,AL|1017|Conover,NC|Florence,AL
+Cartersville,GA -> Savannah,GA|1018|Cartersville,GA|Savannah,GA
+Los Angeles,CA -> Visalia,CA|1019|Los Angeles,CA|Visalia,CA
+Cartersville,GA -> Lumberton,NC|1020|Cartersville,GA|Lumberton,NC
+Reading,PA -> Gouverneur,NY|1021|Reading,PA|Gouverneur,NY
+Granite City,IL -> Decatur,AL|1022|Granite City,IL|Decatur,AL
+Conover,NC -> Sikeston,MO|1023|Conover,NC|Sikeston,MO
+McKenzie,TN -> West Monroe,LA|1024|McKenzie,TN|West Monroe,LA
+Paris,TN -> Brighton,MI|1025|Paris,TN|Brighton,MI
+Pescadero,CA -> Commerce,CA|1026|Pescadero,CA|Commerce,CA
+1,LA -> Herculaneum,MO|1027|1,LA|Herculaneum,MO
+Granite City,IL -> West Union,IA|1028|Granite City,IL|West Union,IA
+Pittston,PA -> Queens,NY|1029|Pittston,PA|Queens,NY
+Fairfield,CA -> Visalia,CA|1030|Fairfield,CA|Visalia,CA
+Fort Collins,CO -> Cody,WY|1031|Fort Collins,CO|Cody,WY
+Pleasant Prairie,WI -> Pevely,MO|1032|Pleasant Prairie,WI|Pevely,MO
+Newton,NC -> Romeoville,IL|1033|Newton,NC|Romeoville,IL
+Baldwinsville,NY -> Wrightsville,PA|1034|Baldwinsville,NY|Wrightsville,PA
+Lewistown,PA -> Baldwinsville,NY|1035|Lewistown,PA|Baldwinsville,NY
+Cartersville,GA -> Lanett,AL|1036|Cartersville,GA|Lanett,AL
+Cabazon,CA -> Tolleson,AZ|1037|Cabazon,CA|Tolleson,AZ
+Granite City,IL -> Hannibal,MO|1038|Granite City,IL|Hannibal,MO
+Houston,TX -> Victoria,TX|1039|Houston,TX|Victoria,TX
+Greenville,SC -> Evans City,PA|1040|Greenville,SC|Evans City,PA
+Santa Ana,CA -> Goodyear,AZ|1041|Santa Ana,CA|Goodyear,AZ
+Los Angeles,CA -> Indio,CA|1042|Los Angeles,CA|Indio,CA
+Oconto,WI -> Alton,IL|1043|Oconto,WI|Alton,IL
+Williamsburg,VA -> Rocky Mount,NC|1044|Williamsburg,VA|Rocky Mount,NC
+Newark,NJ -> Aurora,IN|1045|Newark,NJ|Aurora,IN
+La Porte,TX -> San Angelo,TX|1046|La Porte,TX|San Angelo,TX
+St. Louis,MO -> Rogers,MN|1047|St. Louis,MO|Rogers,MN
+Newark,NJ -> Warren,MI|1048|Newark,NJ|Warren,MI
+Wylie,TX -> Memphis,TN|1049|Wylie,TX|Memphis,TN
+Newark,NJ -> Cranston,RI|1050|Newark,NJ|Cranston,RI
+Carson,CA -> Las Vegas,NV|1051|Carson,CA|Las Vegas,NV
+Yuma,AZ -> Delano,CA|1052|Yuma,AZ|Delano,CA
+Bridgewater,NJ -> Elgin,SC|1053|Bridgewater,NJ|Elgin,SC
+Spring Valley,NY -> Waterbury,CT|1054|Spring Valley,NY|Waterbury,CT
+Hialeah,FL -> Richburg,SC|1055|Hialeah,FL|Richburg,SC
+Compton,CA -> Goodyear,AZ|1056|Compton,CA|Goodyear,AZ
+El Paso,TX -> Laredo,TX|1057|El Paso,TX|Laredo,TX
+Jackson,MS -> Athens,TN|1058|Jackson,MS|Athens,TN
+Long Beach,CA -> Long Beach,CA|1059|Long Beach,CA|Long Beach,CA
+Plant City,FL -> McDonough,GA|1060|Plant City,FL|McDonough,GA
+Brooklyn Park,MN -> Bolingbrook,IL|1061|Brooklyn Park,MN|Bolingbrook,IL
+Stockton,CA -> Tracy,CA|1062|Stockton,CA|Tracy,CA
+El Monte,CA -> Tempe,AZ|1063|El Monte,CA|Tempe,AZ
+Bellevue,WA -> Portland,OR|1064|Bellevue,WA|Portland,OR
+Aurora,CO -> Ogden,UT|1065|Aurora,CO|Ogden,UT
+Cartersville,GA -> Goldsboro,NC|1066|Cartersville,GA|Goldsboro,NC
+Pittston,PA -> Swedesboro,NJ|1067|Pittston,PA|Swedesboro,NJ
+Somerset,WI -> Clinton,IA|1068|Somerset,WI|Clinton,IA
+Moonachie,NJ -> Angier,NC|1069|Moonachie,NJ|Angier,NC
+Little Falls,NY -> Baldwinsville,NY|1070|Little Falls,NY|Baldwinsville,NY
+Conover,NC -> Paragould,AR|1071|Conover,NC|Paragould,AR
+Shippensburg,PA -> Upper Marlboro,MD|1072|Shippensburg,PA|Upper Marlboro,MD
+Reading,PA -> Joliet,IL|1073|Reading,PA|Joliet,IL
+Montgomery,AL -> Conover,NC|1074|Montgomery,AL|Conover,NC
+Reading,PA -> Romeoville,IL|1075|Reading,PA|Romeoville,IL
+Houston,TX -> Abilene,TX|1076|Houston,TX|Abilene,TX
+Wanaque,NJ -> Rochester,NY|1077|Wanaque,NJ|Rochester,NY
+North Richland Hills,TX -> Laceys Spring,AL|1078|North Richland Hills,TX|Laceys Spring,AL
+Marion,VA -> York,PA|1079|Marion,VA|York,PA
+Timberville,VA -> Forest Park,GA|1080|Timberville,VA|Forest Park,GA
+Houston,TX -> Hot Springs,AR|1081|Houston,TX|Hot Springs,AR
+Quincy,IL -> Lafayette,IN|1082|Quincy,IL|Lafayette,IN
+Columbus,OH -> Hagerstown,MD|1083|Columbus,OH|Hagerstown,MD
+Williamsburg,VA -> Trenton,NJ|1084|Williamsburg,VA|Trenton,NJ
+Granite City,IL -> Morrilton,AR|1085|Granite City,IL|Morrilton,AR
+Bethlehem,PA -> Pittsburgh,PA|1086|Bethlehem,PA|Pittsburgh,PA
+Los Angeles,CA -> Santa Maria,CA|1087|Los Angeles,CA|Santa Maria,CA
+Hawkins,TX -> Roanoke,TX|1088|Hawkins,TX|Roanoke,TX
+Fort Collins,CO -> Logan,UT|1089|Fort Collins,CO|Logan,UT
+Houston,TX -> Hattiesburg,MS|1090|Houston,TX|Hattiesburg,MS
+Kansas City,MO -> Dallas,TX|1091|Kansas City,MO|Dallas,TX
+Gainesville,TX -> Laredo,TX|1092|Gainesville,TX|Laredo,TX
+Aurora,CO -> Colorado Springs,CO|1093|Aurora,CO|Colorado Springs,CO
+Jacksonville,FL -> Loxley,AL|1094|Jacksonville,FL|Loxley,AL
+Fort Collins,CO -> Wichita Falls,TX|1095|Fort Collins,CO|Wichita Falls,TX
+Brawley,CA -> Delano,CA|1096|Brawley,CA|Delano,CA
+Paris,TN -> New Haven,IN|1097|Paris,TN|New Haven,IN
+Laredo,TX -> Muenster,TX|1098|Laredo,TX|Muenster,TX
+Commerce,CA -> Chandler,AZ|1099|Commerce,CA|Chandler,AZ
+Paris,TN -> Clinton,IA|1100|Paris,TN|Clinton,IA
+Paris,TN -> Sharonville,OH|1101|Paris,TN|Sharonville,OH
+Johnstown,CO -> Lowell,AR|1102|Johnstown,CO|Lowell,AR
+Granite City,IL -> Aurora,IN|1103|Granite City,IL|Aurora,IN
+Houston,TX -> Beaumont,TX|1104|Houston,TX|Beaumont,TX
+Reading,PA -> Mundelein,IL|1105|Reading,PA|Mundelein,IL
+North East,MD -> Lexington,KY|1106|North East,MD|Lexington,KY
+Medley,FL -> Richburg,SC|1107|Medley,FL|Richburg,SC
+Raleigh,NC -> York,PA|1108|Raleigh,NC|York,PA
+Wyomissing,PA -> Mundelein,IL|1109|Wyomissing,PA|Mundelein,IL
+Los Angeles,CA -> San Marcos,CA|1110|Los Angeles,CA|San Marcos,CA
+Delray Beach,FL -> Asheboro,NC|1111|Delray Beach,FL|Asheboro,NC
+Burlington,NC -> York,PA|1112|Burlington,NC|York,PA
+Columbus,OH -> Muscle Shoals,AL|1113|Columbus,OH|Muscle Shoals,AL
+Granite City,IL -> New Albany,IN|1114|Granite City,IL|New Albany,IN
+San Antonio,TX -> Lowell,AR|1115|San Antonio,TX|Lowell,AR
+Georgetown,SC -> Lexington,NC|1116|Georgetown,SC|Lexington,NC
+Laredo,TX -> DeQuincy,LA|1117|Laredo,TX|DeQuincy,LA
+Jurupa Valley,CA -> Brea,CA|1118|Jurupa Valley,CA|Brea,CA
+Baltimore,MD -> Clinton,NY|1119|Baltimore,MD|Clinton,NY
+Brighton,MI -> Canton,OH|1120|Brighton,MI|Canton,OH
+Linden,NJ -> Frederick,MD|1121|Linden,NJ|Frederick,MD
+Cartersville,GA -> Raleigh,NC|1122|Cartersville,GA|Raleigh,NC
+Toledo,OH -> Canton,OH|1123|Toledo,OH|Canton,OH
+McCook,NE -> Sterling,IL|1124|McCook,NE|Sterling,IL
+Colonial Heights,VA -> Wilmington,NC|1125|Colonial Heights,VA|Wilmington,NC
+Aurora,CO -> Omaha,NE|1126|Aurora,CO|Omaha,NE
+El Campo,TX -> Snyder,TX|1127|El Campo,TX|Snyder,TX
+Avon,MA -> Westfield,MA|1128|Avon,MA|Westfield,MA
+Conover,NC -> West Chester Township,OH|1129|Conover,NC|West Chester Township,OH
+Conover,NC -> Hartselle,AL|1130|Conover,NC|Hartselle,AL
+East Greenville,PA -> Pittsburgh,PA|1131|East Greenville,PA|Pittsburgh,PA
+Williamsburg,VA -> Wilmington,NC|1132|Williamsburg,VA|Wilmington,NC
+Jacksonville,FL -> Sarasota,FL|1133|Jacksonville,FL|Sarasota,FL
+Jacksonville,FL -> Muscle Shoals,AL|1134|Jacksonville,FL|Muscle Shoals,AL
+Long Beach,CA -> Stockton,CA|1135|Long Beach,CA|Stockton,CA
+Carson,CA -> Stockton,CA|1136|Carson,CA|Stockton,CA
+Goose Creek,SC -> Charlotte,NC|1137|Goose Creek,SC|Charlotte,NC
+Portland,OR -> Tracy,CA|1138|Portland,OR|Tracy,CA
+Pandora,OH -> Tipton,IA|1139|Pandora,OH|Tipton,IA
+Denver,CO -> Ponca City,OK|1140|Denver,CO|Ponca City,OK
+Englewood,CO -> Ponca City,OK|1141|Englewood,CO|Ponca City,OK
+Newark,NJ -> Leetsdale,PA|1142|Newark,NJ|Leetsdale,PA
+La Porte,TX -> Hot Springs Township,AR|1143|La Porte,TX|Hot Springs Township,AR
+Wellton,AZ -> Bakersfield,CA|1144|Wellton,AZ|Bakersfield,CA
+Baltimore,MD -> Wallkill,NY|1145|Baltimore,MD|Wallkill,NY
+Sidney,OH -> Laceys Spring,AL|1146|Sidney,OH|Laceys Spring,AL
+Decatur,IN -> Canton,OH|1147|Decatur,IN|Canton,OH
+Colonial Heights,VA -> Morgantown,WV|1148|Colonial Heights,VA|Morgantown,WV
+Taft,CA -> Tracy,CA|1149|Taft,CA|Tracy,CA
+Alton,IL -> Columbus,OH|1150|Alton,IL|Columbus,OH
+Medley,FL -> Montgomery,AL|1151|Medley,FL|Montgomery,AL
+Paris,TX -> Pryor,OK|1152|Paris,TX|Pryor,OK
+Beaumont,CA -> Tolleson,AZ|1153|Beaumont,CA|Tolleson,AZ
+Brockton,MA -> Newark,NJ|1154|Brockton,MA|Newark,NJ
+Houston,TX -> Greenville,TX|1155|Houston,TX|Greenville,TX
+Fairfield,CA -> South San Francisco,CA|1156|Fairfield,CA|South San Francisco,CA
+Wendover,UT -> Meridian,ID|1157|Wendover,UT|Meridian,ID
+Carlisle,PA -> Annapolis,MD|1158|Carlisle,PA|Annapolis,MD
+Cartersville,GA -> Columbia,SC|1159|Cartersville,GA|Columbia,SC
+Granite City,IL -> Leland,MS|1160|Granite City,IL|Leland,MS
+Martinsburg,WV -> Flint,MI|1161|Martinsburg,WV|Flint,MI
+Prattville,AL -> Conover,NC|1162|Prattville,AL|Conover,NC
+Lathrop,CA -> Tracy,CA|1163|Lathrop,CA|Tracy,CA
+Neenah,WI -> Minneapolis,MN|1164|Neenah,WI|Minneapolis,MN
+Medley,FL -> Rome,GA|1165|Medley,FL|Rome,GA
+Winchester,VA -> East Berlin,PA|1166|Winchester,VA|East Berlin,PA
+Sioux City,IA -> Northfield,MN|1167|Sioux City,IA|Northfield,MN
+Edmond,OK -> Roanoke,TX|1168|Edmond,OK|Roanoke,TX
+Aurora,CO -> Lincoln,NE|1169|Aurora,CO|Lincoln,NE
+Williamsburg,VA -> Elkins,WV|1170|Williamsburg,VA|Elkins,WV
+Conover,NC -> Evansville,IN|1171|Conover,NC|Evansville,IN
+Columbus,OH -> Hazard,KY|1172|Columbus,OH|Hazard,KY
+Baltimore,MD -> Lordstown,OH|1173|Baltimore,MD|Lordstown,OH
+Cherry Hill,NJ -> Hebron,KY|1174|Cherry Hill,NJ|Hebron,KY
+Reading,PA -> Olean,NY|1175|Reading,PA|Olean,NY
+St. Louis,MO -> Des Moines,IA|1176|St. Louis,MO|Des Moines,IA
+Jacksonville,FL -> Huntsville,AL|1177|Jacksonville,FL|Huntsville,AL
+Philadelphia,PA -> Seymour,CT|1178|Philadelphia,PA|Seymour,CT
+La Porte,TX -> San Antonio,TX|1179|La Porte,TX|San Antonio,TX
+Houston,TX -> El Dorado,AR|1180|Houston,TX|El Dorado,AR
+Tracy,CA -> Tracy,CA|1181|Tracy,CA|Tracy,CA
+Crows Landing,CA -> Commerce,CA|1182|Crows Landing,CA|Commerce,CA
+Pennsauken Township,NJ -> Farmingdale,NY|1183|Pennsauken Township,NJ|Farmingdale,NY
+Cartersville,GA -> Valdosta,GA|1184|Cartersville,GA|Valdosta,GA
+Owensboro,KY -> Grand Rapids,MI|1185|Owensboro,KY|Grand Rapids,MI
+Fort Collins,CO -> Grand Island,NE|1186|Fort Collins,CO|Grand Island,NE
+Modesto,CA -> Tracy,CA|1187|Modesto,CA|Tracy,CA
+Portland,OR -> Ukiah,CA|1188|Portland,OR|Ukiah,CA
+Los Angeles,CA -> Tracy,CA|1189|Los Angeles,CA|Tracy,CA
+Cartersville,GA -> Soddy-Daisy,TN|1190|Cartersville,GA|Soddy-Daisy,TN
+Philadelphia,PA -> Philadelphia,PA|1191|Philadelphia,PA|Philadelphia,PA
+Dublin,VA -> Mount Holly,NC|1192|Dublin,VA|Mount Holly,NC
+Hackettstown,NJ -> York,PA|1193|Hackettstown,NJ|York,PA
+Kingston,NY -> New Bedford,MA|1194|Kingston,NY|New Bedford,MA
+Clifton,NJ -> Rochester,NY|1195|Clifton,NJ|Rochester,NY
+McAllen,TX -> Houston,TX|1196|McAllen,TX|Houston,TX
+Christiansburg,VA -> Columbus,OH|1197|Christiansburg,VA|Columbus,OH
+Jacksonville,FL -> Madisonville,LA|1198|Jacksonville,FL|Madisonville,LA
+Los Angeles,CA -> Watsonville,CA|1199|Los Angeles,CA|Watsonville,CA
+Franklin,IN -> Mount Vernon,OH|1200|Franklin,IN|Mount Vernon,OH
+Houston,TX -> Vicksburg,MS|1201|Houston,TX|Vicksburg,MS
+Indianapolis,IN -> Clinton,IA|1202|Indianapolis,IN|Clinton,IA
+Bridgewater,NJ -> Rochester,NY|1203|Bridgewater,NJ|Rochester,NY
+Newark,NJ -> Auburn,NY|1204|Newark,NJ|Auburn,NY
+Philadelphia,PA -> Elyria,OH|1205|Philadelphia,PA|Elyria,OH
+Wanaque,NJ -> Lynbrook,NY|1206|Wanaque,NJ|Lynbrook,NY
+Colonial Heights,VA -> Linwood,NC|1207|Colonial Heights,VA|Linwood,NC
+Jacksonville,FL -> Melbourne,FL|1208|Jacksonville,FL|Melbourne,FL
+Lexington,KY -> Gastonia,NC|1209|Lexington,KY|Gastonia,NC
+Jacksonville,FL -> Piedmont,SC|1210|Jacksonville,FL|Piedmont,SC
+Waterloo,WI -> Wilmington,IL|1211|Waterloo,WI|Wilmington,IL
+Lakewood Township,NJ -> Gastonia,NC|1212|Lakewood Township,NJ|Gastonia,NC
+Kutztown,PA -> Shipshewana,IN|1213|Kutztown,PA|Shipshewana,IN
+Kutztown,PA -> Auburn,NY|1214|Kutztown,PA|Auburn,NY
+Jacksonville,FL -> Winston-Salem,NC|1215|Jacksonville,FL|Winston-Salem,NC
+Pocomoke City,MD -> Rockville,MD|1216|Pocomoke City,MD|Rockville,MD
+Cowarts,AL -> Montgomery,AL|1217|Cowarts,AL|Montgomery,AL
+Milwaukie,OR -> Portland,OR|1218|Milwaukie,OR|Portland,OR
+Kutztown,PA -> Deer Park,NY|1219|Kutztown,PA|Deer Park,NY
+Bridgewater,NJ -> Canastota,NY|1220|Bridgewater,NJ|Canastota,NY
+Atlanta,GA -> Gastonia,NC|1221|Atlanta,GA|Gastonia,NC
+Newark,NJ -> Oneonta,NY|1222|Newark,NJ|Oneonta,NY
+Sacramento,CA -> Tracy,CA|1223|Sacramento,CA|Tracy,CA
+Livingston,CA -> Commerce,CA|1224|Livingston,CA|Commerce,CA
+Roanoke,TX -> Opelousas,LA|1225|Roanoke,TX|Opelousas,LA
+York,PA -> Hackettstown,NJ|1226|York,PA|Hackettstown,NJ
+Philadelphia,PA -> Florence,SC|1227|Philadelphia,PA|Florence,SC
+Laredo,TX -> Houston,TX|1228|Laredo,TX|Houston,TX
+Carlisle,PA -> Hatfield,PA|1229|Carlisle,PA|Hatfield,PA
+Colonial Heights,VA -> Philadelphia,PA|1230|Colonial Heights,VA|Philadelphia,PA
+Kent,WA -> Auburn,WA|1231|Kent,WA|Auburn,WA
+Linden,NJ -> York,PA|1232|Linden,NJ|York,PA
+Houston,TX -> Summit,MS|1233|Houston,TX|Summit,MS
+St. Louis,MO -> Bowling Green,KY|1234|St. Louis,MO|Bowling Green,KY
+Jacksonville,FL -> Tampa,FL|1235|Jacksonville,FL|Tampa,FL
+Arlington,TX -> Houston,TX|1236|Arlington,TX|Houston,TX
+Compton,CA -> Irvine,CA|1237|Compton,CA|Irvine,CA
+Long Branch,NJ -> York,PA|1238|Long Branch,NJ|York,PA
+Sinking Spring,PA -> Brook Park,OH|1239|Sinking Spring,PA|Brook Park,OH
+Narvon,PA -> Philadelphia,PA|1240|Narvon,PA|Philadelphia,PA
+Jacksonville,FL -> Holiday,FL|1241|Jacksonville,FL|Holiday,FL
+Edison,NJ -> Auburn,NY|1242|Edison,NJ|Auburn,NY
+Zion,IL -> Detroit,MI|1243|Zion,IL|Detroit,MI
+Fort Payne,AL -> Conover,NC|1244|Fort Payne,AL|Conover,NC
+Cartersville,GA -> Birmingham,AL|1245|Cartersville,GA|Birmingham,AL
+Hillside,NJ -> Auburn,NY|1246|Hillside,NJ|Auburn,NY
+Jacksonville,FL -> Bowling Green,KY|1247|Jacksonville,FL|Bowling Green,KY
+Cartersville,GA -> Albany,GA|1248|Cartersville,GA|Albany,GA
+Jacksonville,FL -> Lakeland,FL|1249|Jacksonville,FL|Lakeland,FL
+Jacksonville,FL -> Charlotte,NC|1250|Jacksonville,FL|Charlotte,NC
+Newark,NJ -> Old Forge,PA|1251|Newark,NJ|Old Forge,PA
+Wilson,NC -> Battleboro,NC|1252|Wilson,NC|Battleboro,NC
+Braithwaite,LA -> Chapel Hill,TN|1253|Braithwaite,LA|Chapel Hill,TN
+Cranbury Township,NJ -> Annapolis,MD|1254|Cranbury Township,NJ|Annapolis,MD
+1,LA -> Birmingham,AL|1255|1,LA|Birmingham,AL
+Romulus,MI -> Toledo,OH|1256|Romulus,MI|Toledo,OH
+Williamsburg,VA -> Romney,WV|1257|Williamsburg,VA|Romney,WV
+Lancaster,PA -> Newark,NJ|1258|Lancaster,PA|Newark,NJ
+Los Angeles,CA -> Temecula,CA|1259|Los Angeles,CA|Temecula,CA
+Newark,NJ -> Olean,NY|1260|Newark,NJ|Olean,NY
+Columbia,PA -> Newark,NJ|1261|Columbia,PA|Newark,NJ
+Miami,FL -> Commerce,GA|1262|Miami,FL|Commerce,GA
+Bridgewater,NJ -> Springfield,MA|1263|Bridgewater,NJ|Springfield,MA
+Cartersville,GA -> Columbus,GA|1264|Cartersville,GA|Columbus,GA
+Tampa,FL -> Laceys Spring,AL|1265|Tampa,FL|Laceys Spring,AL
+Cartersville,GA -> Sylva,NC|1266|Cartersville,GA|Sylva,NC
+Edison,NJ -> Sandston,VA|1267|Edison,NJ|Sandston,VA
+Cartersville,GA -> Rock Hill,SC|1268|Cartersville,GA|Rock Hill,SC
+Pompano Beach,FL -> Orlando,FL|1269|Pompano Beach,FL|Orlando,FL
+Jacksonville,FL -> Birmingham,AL|1270|Jacksonville,FL|Birmingham,AL
+Colonial Heights,VA -> Winston-Salem,NC|1271|Colonial Heights,VA|Winston-Salem,NC
+Colonial Heights,VA -> Salem,VA|1272|Colonial Heights,VA|Salem,VA
+Cartersville,GA -> Spartanburg,SC|1273|Cartersville,GA|Spartanburg,SC
+Chicago,IL -> Alton,IL|1274|Chicago,IL|Alton,IL
+Baldwinsville,NY -> Little Falls,NY|1275|Baldwinsville,NY|Little Falls,NY
+Morris,IL -> Grand Rapids,MI|1276|Morris,IL|Grand Rapids,MI
+Dallas,TX -> Houston,TX|1277|Dallas,TX|Houston,TX
+Brooks,OR -> Coos Bay,OR|1278|Brooks,OR|Coos Bay,OR
+Bridgewater,NJ -> Woodlawn,MD|1279|Bridgewater,NJ|Woodlawn,MD
+Wanaque,NJ -> Savannah,NY|1280|Wanaque,NJ|Savannah,NY
+McDonough,GA -> College Park,GA|1281|McDonough,GA|College Park,GA
+Plant City,FL -> Cleveland,TN|1282|Plant City,FL|Cleveland,TN
+Jacksonville,FL -> Myrtle Beach,SC|1283|Jacksonville,FL|Myrtle Beach,SC
+Richmond,CA -> Tracy,CA|1284|Richmond,CA|Tracy,CA
+Warrenton,VA -> Ephrata,PA|1285|Warrenton,VA|Ephrata,PA
+Lakeland,FL -> Piedmont,SC|1286|Lakeland,FL|Piedmont,SC
+Cartersville,GA -> Hickory,NC|1287|Cartersville,GA|Hickory,NC
+Philadelphia,PA -> Cleveland,OH|1288|Philadelphia,PA|Cleveland,OH
+Kent,WA -> Pacific,WA|1289|Kent,WA|Pacific,WA
+Wanaque,NJ -> Olean,NY|1290|Wanaque,NJ|Olean,NY
+Normal,IL -> Dowagiac,MI|1291|Normal,IL|Dowagiac,MI
+Fort Collins,CO -> Colorado Springs,CO|1292|Fort Collins,CO|Colorado Springs,CO
+Normal,IL -> Bryan,OH|1293|Normal,IL|Bryan,OH
+York,PA -> Newark,NJ|1294|York,PA|Newark,NJ
+Houston,TX -> Llano,TX|1295|Houston,TX|Llano,TX
+Linden,NJ -> Ephrata,PA|1296|Linden,NJ|Ephrata,PA
+Ontario,CA -> El Monte,CA|1297|Ontario,CA|El Monte,CA
+Dothan,AL -> Montgomery,AL|1298|Dothan,AL|Montgomery,AL
+Pasadena,TX -> Commerce,TX|1299|Pasadena,TX|Commerce,TX
+Medley,FL -> Orlando,FL|1300|Medley,FL|Orlando,FL
+Conover,NC -> Carrollton,GA|1301|Conover,NC|Carrollton,GA
+Bristol,PA -> Kane,PA|1302|Bristol,PA|Kane,PA
+Orlando,FL -> Fort Payne,AL|1303|Orlando,FL|Fort Payne,AL
+Bronx,NY -> Newark,NJ|1304|Bronx,NY|Newark,NJ
+Kansas City,MO -> Cedar Rapids,IA|1305|Kansas City,MO|Cedar Rapids,IA
+Candler,NC -> Atlanta,GA|1306|Candler,NC|Atlanta,GA
+Westfield,MA -> Avon,MA|1307|Westfield,MA|Avon,MA
+Savannah,GA -> Gastonia,NC|1308|Savannah,GA|Gastonia,NC
+Jurupa Valley,CA -> Irvine,CA|1309|Jurupa Valley,CA|Irvine,CA
+Baldwinsville,NY -> Bernhards Bay,NY|1310|Baldwinsville,NY|Bernhards Bay,NY
+Dallas,TX -> Lowell,AR|1311|Dallas,TX|Lowell,AR
+Fort Collins,CO -> North Platte,NE|1312|Fort Collins,CO|North Platte,NE
+Mukilteo,WA -> Pacific,WA|1313|Mukilteo,WA|Pacific,WA
+Frankfort,KY -> Clyde,OH|1314|Frankfort,KY|Clyde,OH
+Columbus,OH -> Port Huron,MI|1315|Columbus,OH|Port Huron,MI
+Wanaque,NJ -> Castile,NY|1316|Wanaque,NJ|Castile,NY
+Plant City,FL -> Commerce,GA|1317|Plant City,FL|Commerce,GA
+Plant City,FL -> Athens,TN|1318|Plant City,FL|Athens,TN
+La Mirada,CA -> Santa Ana,CA|1319|La Mirada,CA|Santa Ana,CA
+Granite City,IL -> Dixon,IL|1320|Granite City,IL|Dixon,IL
+Pennsauken Township,NJ -> York,PA|1321|Pennsauken Township,NJ|York,PA
+Reading,PA -> Brook Park,OH|1322|Reading,PA|Brook Park,OH
+1,LA -> Homewood,AL|1323|1,LA|Homewood,AL
+Johnston,RI -> Newark,NJ|1324|Johnston,RI|Newark,NJ
+Colonial Heights,VA -> Upper Marlboro,MD|1325|Colonial Heights,VA|Upper Marlboro,MD
+Taunton,MA -> Westfield,MA|1326|Taunton,MA|Westfield,MA
+Raleigh,NC -> Gastonia,NC|1327|Raleigh,NC|Gastonia,NC
+Newark,NJ -> Fredericksburg,VA|1328|Newark,NJ|Fredericksburg,VA
+Casa Grande,AZ -> Palmdale,CA|1329|Casa Grande,AZ|Palmdale,CA
+Newark,NJ -> Brooklyn,NY|1330|Newark,NJ|Brooklyn,NY
+Gaston,SC -> Gastonia,NC|1331|Gaston,SC|Gastonia,NC
+Philadelphia,PA -> Newark,NJ|1332|Philadelphia,PA|Newark,NJ
+Bolingbrook,IL -> Wood Dale,IL|1333|Bolingbrook,IL|Wood Dale,IL
+Colonial Heights,VA -> Annapolis,MD|1334|Colonial Heights,VA|Annapolis,MD
+Midland City,AL -> Laceys Spring,AL|1335|Midland City,AL|Laceys Spring,AL
+Hillsborough Township,NJ -> Philadelphia,PA|1336|Hillsborough Township,NJ|Philadelphia,PA
+Granite City,IL -> Villa Park,IL|1337|Granite City,IL|Villa Park,IL
+Christiansburg,VA -> Lebanon,OH|1338|Christiansburg,VA|Lebanon,OH
+Jacksonville,FL -> Charleston,SC|1339|Jacksonville,FL|Charleston,SC
+Houston,TX -> Corpus Christi,TX|1340|Houston,TX|Corpus Christi,TX
+Modesto,CA -> Modesto,CA|1341|Modesto,CA|Modesto,CA
+Conover,NC -> Claremont,NC|1342|Conover,NC|Claremont,NC
+Baltimore,MD -> Berryville,VA|1343|Baltimore,MD|Berryville,VA
+Burlington,NC -> Commerce,GA|1344|Burlington,NC|Commerce,GA
+Brook Park,OH -> Reading,PA|1345|Brook Park,OH|Reading,PA
+Salem,OR -> Portland,OR|1346|Salem,OR|Portland,OR
+Pennsauken Township,NJ -> Newark,NJ|1347|Pennsauken Township,NJ|Newark,NJ
+La Porte,TX -> Fort Worth,TX|1348|La Porte,TX|Fort Worth,TX
+Newark,NJ -> Mount Vernon,NY|1349|Newark,NJ|Mount Vernon,NY
+Stamford,CT -> Newark,NJ|1350|Stamford,CT|Newark,NJ
+Pine Mountain Valley,GA -> Gastonia,NC|1351|Pine Mountain Valley,GA|Gastonia,NC
+Orlando,FL -> Laceys Spring,AL|1352|Orlando,FL|Laceys Spring,AL
+Greenville,SC -> Laceys Spring,AL|1353|Greenville,SC|Laceys Spring,AL
+Newport,TN -> Laceys Spring,AL|1354|Newport,TN|Laceys Spring,AL
+Greencastle,IN -> Winchester,KY|1355|Greencastle,IN|Winchester,KY
+Pittston,PA -> Ephrata,PA|1356|Pittston,PA|Ephrata,PA
+Philadelphia,PA -> Altoona,PA|1357|Philadelphia,PA|Altoona,PA
+Columbus,OH -> Owosso,MI|1358|Columbus,OH|Owosso,MI
+Chester,VA -> Gastonia,NC|1359|Chester,VA|Gastonia,NC
+Dallas,TX -> Muskogee,OK|1360|Dallas,TX|Muskogee,OK
+Omaha,NE -> Kansas City,MO|1361|Omaha,NE|Kansas City,MO
+Atlanta,GA -> Morrow,GA|1362|Atlanta,GA|Morrow,GA
+Cartersville,GA -> Tullahoma,TN|1363|Cartersville,GA|Tullahoma,TN
+Gastonia,NC -> Monroe,GA|1364|Gastonia,NC|Monroe,GA
+Cartersville,GA -> Huntsville,AL|1365|Cartersville,GA|Huntsville,AL
+Wanaque,NJ -> Farmingdale,NY|1366|Wanaque,NJ|Farmingdale,NY
+San Antonio,TX -> Houston,TX|1367|San Antonio,TX|Houston,TX
+Alton,IL -> Channahon,IL|1368|Alton,IL|Channahon,IL
+Toledo,OH -> Mount Vernon,OH|1369|Toledo,OH|Mount Vernon,OH
+Everett,MA -> Newark,NJ|1370|Everett,MA|Newark,NJ
+Baltimore,MD -> Sayreville,NJ|1371|Baltimore,MD|Sayreville,NJ
+Davenport,IA -> Gurnee,IL|1372|Davenport,IA|Gurnee,IL
+Cartersville,GA -> Attalla,AL|1373|Cartersville,GA|Attalla,AL
+Porterville,CA -> Garden Grove,CA|1374|Porterville,CA|Garden Grove,CA
+Jackson,TN -> Laceys Spring,AL|1375|Jackson,TN|Laceys Spring,AL
+Newark,DE -> Philadelphia,PA|1376|Newark,DE|Philadelphia,PA
+Wellton,AZ -> Garden Grove,CA|1377|Wellton,AZ|Garden Grove,CA
+Windsor Locks,CT -> York,PA|1378|Windsor Locks,CT|York,PA
+Jacksonville,FL -> Savannah,GA|1379|Jacksonville,FL|Savannah,GA
+Brooklyn,NY -> Newark,NJ|1380|Brooklyn,NY|Newark,NJ
+Baltimore,MD -> Altoona,PA|1381|Baltimore,MD|Altoona,PA
+Williams Township,PA -> Newark,NJ|1382|Williams Township,PA|Newark,NJ
+Santa Ana,CA -> Carson,CA|1383|Santa Ana,CA|Carson,CA
+Santa Ana,CA -> Jurupa Valley,CA|1384|Santa Ana,CA|Jurupa Valley,CA
+Edgemere,MD -> Fleetwood,PA|1385|Edgemere,MD|Fleetwood,PA
+Marion,VA -> Commerce,GA|1386|Marion,VA|Commerce,GA
+Pottstown,PA -> Newark,NJ|1387|Pottstown,PA|Newark,NJ
+Queens,NY -> Newark,NJ|1388|Queens,NY|Newark,NJ
+Troy,AL -> Laceys Spring,AL|1389|Troy,AL|Laceys Spring,AL
+New Castle,DE -> Midlothian,VA|1390|New Castle,DE|Midlothian,VA
+Casa Grande,AZ -> San Diego,CA|1391|Casa Grande,AZ|San Diego,CA
+Carthage,MO -> Pryor,OK|1392|Carthage,MO|Pryor,OK
+Cartersville,GA -> Atlanta,GA|1393|Cartersville,GA|Atlanta,GA
+Kansas City,MO -> Troy,MO|1394|Kansas City,MO|Troy,MO
+Edgemere,MD -> Altoona,PA|1395|Edgemere,MD|Altoona,PA
+Walpole,MA -> Newark,NJ|1396|Walpole,MA|Newark,NJ
+Waterbury,CT -> Newark,NJ|1397|Waterbury,CT|Newark,NJ
+Springfield,MA -> Newark,NJ|1398|Springfield,MA|Newark,NJ
+Colonial Heights,VA -> Danville,VA|1399|Colonial Heights,VA|Danville,VA
+Bridgewater,NJ -> York,PA|1400|Bridgewater,NJ|York,PA
+Orlando,FL -> Commerce,GA|1401|Orlando,FL|Commerce,GA
+Edinburg,VA -> York,PA|1402|Edinburg,VA|York,PA
+Winchester,VA -> York,PA|1403|Winchester,VA|York,PA
+Newark,NJ -> Wilkes-Barre,PA|1404|Newark,NJ|Wilkes-Barre,PA
+Orlando,FL -> Plant City,FL|1405|Orlando,FL|Plant City,FL
+Greenville,SC -> Fort Payne,AL|1406|Greenville,SC|Fort Payne,AL
+Norcross,GA -> Atlanta,GA|1407|Norcross,GA|Atlanta,GA
+Braselton,GA -> Laceys Spring,AL|1408|Braselton,GA|Laceys Spring,AL
+Lynn,MA -> Newark,NJ|1409|Lynn,MA|Newark,NJ
+Elk Grove,CA -> Commerce,CA|1410|Elk Grove,CA|Commerce,CA
+Jacksonville,FL -> Evans,GA|1411|Jacksonville,FL|Evans,GA
+Bushnell,FL -> Savannah,GA|1412|Bushnell,FL|Savannah,GA
+Fresno,CA -> Colton,CA|1413|Fresno,CA|Colton,CA
+Casa Grande,AZ -> Commerce,CA|1414|Casa Grande,AZ|Commerce,CA
+Livermore,CA -> Gardena,CA|1415|Livermore,CA|Gardena,CA
+Sunnyvale,TX -> Roanoke,TX|1416|Sunnyvale,TX|Roanoke,TX
+Freeport,NY -> Brooklyn,NY|1417|Freeport,NY|Brooklyn,NY
+Cantua Creek,CA -> Garden Grove,CA|1418|Cantua Creek,CA|Garden Grove,CA
+Phoenix,AZ -> Downey,CA|1419|Phoenix,AZ|Downey,CA
+Broadalbin,NY -> Frankfort,NY|1420|Broadalbin,NY|Frankfort,NY
+Hackettstown,NJ -> Long Branch,NJ|1421|Hackettstown,NJ|Long Branch,NJ
+Wanaque,NJ -> Ocean City,NJ|1422|Wanaque,NJ|Ocean City,NJ
+Tennille,GA -> Vienna,GA|1423|Tennille,GA|Vienna,GA
+Mount Vernon,OH -> Botkins,OH|1424|Mount Vernon,OH|Botkins,OH
+Plant City,FL -> Atlanta,GA|1425|Plant City,FL|Atlanta,GA
+St. Louis,MO -> Herculaneum,MO|1426|St. Louis,MO|Herculaneum,MO
+Davenport,IA -> Normal,IL|1427|Davenport,IA|Normal,IL
+Newton,NJ -> Newark,NJ|1428|Newton,NJ|Newark,NJ
+West Palm Beach,FL -> Tampa,FL|1429|West Palm Beach,FL|Tampa,FL
+Nashville,TN -> Laceys Spring,AL|1430|Nashville,TN|Laceys Spring,AL
+Philadelphia,PA -> Fleetwood,PA|1431|Philadelphia,PA|Fleetwood,PA
+Mount Vernon,OH -> Dayton,OH|1432|Mount Vernon,OH|Dayton,OH
+Ocean Township,NJ -> Newark,NJ|1433|Ocean Township,NJ|Newark,NJ
+Romeoville,IL -> Shipshewana,IN|1434|Romeoville,IL|Shipshewana,IN
+Lancaster,TX -> Denison,TX|1435|Lancaster,TX|Denison,TX
+Saint Michael,MN -> Minneapolis,MN|1436|Saint Michael,MN|Minneapolis,MN
+Botkins,OH -> Mount Vernon,OH|1437|Botkins,OH|Mount Vernon,OH
+Parma,OH -> Mount Vernon,OH|1438|Parma,OH|Mount Vernon,OH
+Bremen,IN -> Elk Grove Village,IL|1439|Bremen,IN|Elk Grove Village,IL
+Cartersville,GA -> LaGrange,GA|1440|Cartersville,GA|LaGrange,GA
+Cartersville,GA -> Forest Park,GA|1441|Cartersville,GA|Forest Park,GA
+Plant City,FL -> Jacksonville,FL|1442|Plant City,FL|Jacksonville,FL
+Conover,NC -> Newton,NC|1443|Conover,NC|Newton,NC
+Chester,PA -> Philadelphia,PA|1444|Chester,PA|Philadelphia,PA
+Hawthorne,CA -> Los Angeles,CA|1445|Hawthorne,CA|Los Angeles,CA
+Kutztown,PA -> Ephrata,PA|1446|Kutztown,PA|Ephrata,PA
+Perrysburg,OH -> Toledo,OH|1447|Perrysburg,OH|Toledo,OH
+Green Bay,WI -> Newark,NJ|1448|Green Bay,WI|Newark,NJ
+Colonial Heights,VA -> Wellsburg,WV|1449|Colonial Heights,VA|Wellsburg,WV
+St. Louis,MO -> Fletcher,NC|1450|St. Louis,MO|Fletcher,NC
+Newark,NJ -> Medford,MA|1451|Newark,NJ|Medford,MA
+Carlisle,PA -> Gardiner,ME|1452|Carlisle,PA|Gardiner,ME
+Lakewood,NY -> Statesville,NC|1453|Lakewood,NY|Statesville,NC
+Newark,DE -> Cleveland,NC|1454|Newark,DE|Cleveland,NC
+Jamestown,NY -> Toledo,OH|1455|Jamestown,NY|Toledo,OH
+Louisville,KY -> Paris,TN|1456|Louisville,KY|Paris,TN
+Rome City,IN -> Laceys Spring,AL|1457|Rome City,IN|Laceys Spring,AL
+Williamsburg,VA -> Dallas,TX|1458|Williamsburg,VA|Dallas,TX
+Merced,CA -> Hayward,CA|1459|Merced,CA|Hayward,CA
+Portsmouth,VA -> Aurora,IL|1460|Portsmouth,VA|Aurora,IL
+York,PA -> Williamsport,MD|1461|York,PA|Williamsport,MD
+Miami,FL -> Athens,AL|1462|Miami,FL|Athens,AL
+Atlanta,GA -> South Brunswick Township,NJ|1463|Atlanta,GA|South Brunswick Township,NJ
+Pompano Beach,FL -> Los Angeles,CA|1464|Pompano Beach,FL|Los Angeles,CA
+Timberville,VA -> Pompano Beach,FL|1465|Timberville,VA|Pompano Beach,FL
+Harleysville,PA -> Hebron,KY|1466|Harleysville,PA|Hebron,KY
+Tucson,AZ -> Methuen,MA|1467|Tucson,AZ|Methuen,MA
+Latrobe,PA -> Syracuse,NY|1468|Latrobe,PA|Syracuse,NY
+Eagan,MN -> Morris,IL|1469|Eagan,MN|Morris,IL
+Laredo,TX -> Pasadena,TX|1470|Laredo,TX|Pasadena,TX
+Brooklyn,NY -> Kearny,NJ|1471|Brooklyn,NY|Kearny,NJ
+Fort Collins,CO -> Beloit,KS|1472|Fort Collins,CO|Beloit,KS
+Cartersville,GA -> Vidalia,GA|1473|Cartersville,GA|Vidalia,GA
+Fairfield,CA -> Billings,MT|1474|Fairfield,CA|Billings,MT
+Merrimack,NH -> Newark,NJ|1475|Merrimack,NH|Newark,NJ
+St. Louis,MO -> Osage City,KS|1476|St. Louis,MO|Osage City,KS
+Colonial Heights,VA -> Asheville,NC|1477|Colonial Heights,VA|Asheville,NC
+Aurora,CO -> Glenwood Springs,CO|1478|Aurora,CO|Glenwood Springs,CO
+Fort Collins,CO -> Cartersville,GA|1479|Fort Collins,CO|Cartersville,GA
+Williamsburg,VA -> Rock Hill,SC|1480|Williamsburg,VA|Rock Hill,SC
+Fort Collins,CO -> Poteau,OK|1481|Fort Collins,CO|Poteau,OK
+Fairfield,CA -> Mobridge,SD|1482|Fairfield,CA|Mobridge,SD
+Williamsburg,VA -> Danville,VA|1483|Williamsburg,VA|Danville,VA
+Indianapolis,IN -> Portland,OR|1484|Indianapolis,IN|Portland,OR
+Del Rio,TX -> Canton,OH|1485|Del Rio,TX|Canton,OH
+Xenia,OH -> Swedesboro,NJ|1486|Xenia,OH|Swedesboro,NJ
+Hawkins,TX -> Canton,OH|1487|Hawkins,TX|Canton,OH
+Xenia,OH -> Reno,NV|1488|Xenia,OH|Reno,NV
+Granite City,IL -> Albert Lea,MN|1489|Granite City,IL|Albert Lea,MN
+Cartersville,GA -> Charlotte,NC|1490|Cartersville,GA|Charlotte,NC
+Portage,IN -> Cleveland,NC|1491|Portage,IN|Cleveland,NC
+Newark,NJ -> Norcross,GA|1492|Newark,NJ|Norcross,GA
+St. Louis,MO -> Jacksonville,FL|1493|St. Louis,MO|Jacksonville,FL
+Romulus,MI -> Williamsburg,VA|1494|Romulus,MI|Williamsburg,VA
+Houston,TX -> West Palm Beach,FL|1495|Houston,TX|West Palm Beach,FL
+Portland,OR -> Auburn,WA|1496|Portland,OR|Auburn,WA
+Fort Collins,CO -> Sioux City,IA|1497|Fort Collins,CO|Sioux City,IA
+Cartersville,GA -> Knoxville,TN|1498|Cartersville,GA|Knoxville,TN
+Fairfield,CA -> Puyallup,WA|1499|Fairfield,CA|Puyallup,WA
+Newark,NJ -> Lancaster,NY|1500|Newark,NJ|Lancaster,NY
+Olyphant,PA -> Berne,IN|1501|Olyphant,PA|Berne,IN
+Kenilworth,NJ -> Mount Clemens,MI|1502|Kenilworth,NJ|Mount Clemens,MI
+Fairfield,CA -> Merrimack,NH|1503|Fairfield,CA|Merrimack,NH
+Williamsburg,VA -> San Antonio,TX|1504|Williamsburg,VA|San Antonio,TX
+St. Louis,MO -> Dowagiac,MI|1505|St. Louis,MO|Dowagiac,MI
+Van Nuys,CA -> Fallon,NV|1506|Van Nuys,CA|Fallon,NV
+Fort Collins,CO -> Leonardtown,MD|1507|Fort Collins,CO|Leonardtown,MD
+Rio Rico,AZ -> Phoenix,AZ|1508|Rio Rico,AZ|Phoenix,AZ
+Salisbury,NC -> Gastonia,NC|1509|Salisbury,NC|Gastonia,NC
+Alexandria,VA -> Gastonia,NC|1510|Alexandria,VA|Gastonia,NC
+Gastonia,NC -> Reidsville,NC|1511|Gastonia,NC|Reidsville,NC
+Vineland,NJ -> Vernon,CA|1512|Vineland,NJ|Vernon,CA
+Wanaque,NJ -> Syracuse,NY|1513|Wanaque,NJ|Syracuse,NY
+Paris,TN -> Danville,VA|1514|Paris,TN|Danville,VA
+Wilkes-Barre,PA -> Port Orange,FL|1515|Wilkes-Barre,PA|Port Orange,FL
+Tampa,FL -> Prinsburg,MN|1516|Tampa,FL|Prinsburg,MN
+Bridgewater,NJ -> Ankeny,IA|1517|Bridgewater,NJ|Ankeny,IA
+New Haven,CT -> Newark,NJ|1518|New Haven,CT|Newark,NJ
+Hackensack,NJ -> Brazil,IN|1519|Hackensack,NJ|Brazil,IN
+Stowe,PA -> Chapel Hill,TN|1520|Stowe,PA|Chapel Hill,TN
+Philadelphia,PA -> Clinton,NY|1521|Philadelphia,PA|Clinton,NY
+Philadelphia,PA -> Stowe,PA|1522|Philadelphia,PA|Stowe,PA
+Laredo,TX -> Memphis,TN|1523|Laredo,TX|Memphis,TN
+Anderson,SC -> Warren,OH|1524|Anderson,SC|Warren,OH
+McCook,NE -> Russellville,KY|1525|McCook,NE|Russellville,KY
+Fort Collins,CO -> Trenton,NJ|1526|Fort Collins,CO|Trenton,NJ
+Colonial Heights,VA -> Nottingham,MD|1527|Colonial Heights,VA|Nottingham,MD
+Colonial Heights,VA -> Myrtle Beach,SC|1528|Colonial Heights,VA|Myrtle Beach,SC
+Los Angeles,CA -> Clifton,CO|1529|Los Angeles,CA|Clifton,CO
+Carlisle,PA -> West Greenwich,RI|1530|Carlisle,PA|West Greenwich,RI
+Colonial Heights,VA -> Piedmont,SC|1531|Colonial Heights,VA|Piedmont,SC
+Colonial Heights,VA -> Nashville,TN|1532|Colonial Heights,VA|Nashville,TN
+Newark,NJ -> South San Francisco,CA|1533|Newark,NJ|South San Francisco,CA
+Williamsburg,VA -> Goldsboro,NC|1534|Williamsburg,VA|Goldsboro,NC
+Cartersville,GA -> Fletcher,NC|1535|Cartersville,GA|Fletcher,NC
+Merrimack,NH -> Norwich,CT|1536|Merrimack,NH|Norwich,CT
+Fort Collins,CO -> Elko,NV|1537|Fort Collins,CO|Elko,NV
+Colonial Heights,VA -> Deerfield Beach,FL|1538|Colonial Heights,VA|Deerfield Beach,FL
+De Soto,KS -> St. Louis,MO|1539|De Soto,KS|St. Louis,MO
+Colonial Heights,VA -> Daytona Beach,FL|1540|Colonial Heights,VA|Daytona Beach,FL
+Monte Vista,CO -> Tracy,CA|1541|Monte Vista,CO|Tracy,CA
+Richmond,CA -> Roanoke,TX|1542|Richmond,CA|Roanoke,TX
+Walla Walla,WA -> Pacific,WA|1543|Walla Walla,WA|Pacific,WA
+Taft,CA -> Pacific,WA|1544|Taft,CA|Pacific,WA
+Thermal,CA -> Portland,OR|1545|Thermal,CA|Portland,OR
+Ontario,CA -> Roanoke,TX|1546|Ontario,CA|Roanoke,TX
+Hood River,OR -> Cowiche,WA|1547|Hood River,OR|Cowiche,WA
+Winnsboro,TX -> Roanoke,TX|1548|Winnsboro,TX|Roanoke,TX
+Oxnard,CA -> Irvine,CA|1549|Oxnard,CA|Irvine,CA
+La Pine,OR -> Tolleson,AZ|1550|La Pine,OR|Tolleson,AZ
+Santa Maria,CA -> Spokane,WA|1551|Santa Maria,CA|Spokane,WA
+Bellevue,WA -> Momence,IL|1552|Bellevue,WA|Momence,IL
+Bellevue,WA -> Ephrata,PA|1553|Bellevue,WA|Ephrata,PA
+Santa Ana,CA -> Portland,OR|1554|Santa Ana,CA|Portland,OR
+Fort Collins,CO -> International Falls,MN|1555|Fort Collins,CO|International Falls,MN
+Los Angeles,CA -> Portland,OR|1556|Los Angeles,CA|Portland,OR
+Olean,NY -> Romeoville,IL|1557|Olean,NY|Romeoville,IL
+Olean,NY -> Joliet,IL|1558|Olean,NY|Joliet,IL
+Olean,NY -> Mundelein,IL|1559|Olean,NY|Mundelein,IL
+Olean,NY -> Brook Park,OH|1560|Olean,NY|Brook Park,OH
+Austin,TX -> Wayzata,MN|1561|Austin,TX|Wayzata,MN
+Riverside,CA -> Pomona,CA|1562|Riverside,CA|Pomona,CA
+Santa Ana,CA -> Fontana,CA|1563|Santa Ana,CA|Fontana,CA
+Bethlehem,PA -> Santa Ana,CA|1564|Bethlehem,PA|Santa Ana,CA
+Compton,CA -> Stockton,CA|1565|Compton,CA|Stockton,CA
+Bolingbrook,IL -> Tracy,CA|1566|Bolingbrook,IL|Tracy,CA
+Saint Albans City,VT -> Plant City,FL|1567|Saint Albans City,VT|Plant City,FL
+Plant City,FL -> McCook,IL|1568|Plant City,FL|McCook,IL
+Plant City,FL -> Monrovia,MD|1569|Plant City,FL|Monrovia,MD
+Not Informed|1570|Not Informed|
